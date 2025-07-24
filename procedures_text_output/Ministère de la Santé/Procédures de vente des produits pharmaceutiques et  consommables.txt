@@ -1,0 +1,22 @@
+Titre de la procédure: Procédures de vente des produits pharmaceutiques et  consommables
+URL: https://procedures.gov.mr/fr/procedure/1333
+
+Description de la procédure ou du service: Peuvent être élus clients de CAMEC sans aucune procédure à accomplir
+-	Toutes les structures sanitaires publiques 
+-	 les structures de soin et de distribution privées à but non lucratif,
+-	les Partenaires Techniques et Financiers.
+-	Les grossistes privés
+Les clients, autres que ceux cités ci-dessus, doivent être au préalable agréé par la Direction Générale de la CAMEC.
+Pour les structures privées associatives à but non lucratif, des critères précis d’accès aux produits pharmaceutiques de la CAMEC sont clairement définis et servent de base à l’agrément des clients.
+- Les règlements des ventes s’effectuent en principe au comptant (Versement espèces au compte CAMEC, chèque ou virement) avant la livraison des médicaments.
+- Les ventes à terme doivent faire l’objet d’une autorisation préalable de la Direction Générale.
+- Les ventes effectuées au niveau des Agences de la CAMEC sont générées et intégrées directement dans la base centrale au siège.
+La structure des coûts de la CAMEC est fixée par arrêté du Ministère de la Santé.
+Entité chargée de la procédure: Direction Commerciale
+Documents requis: Demande d'achat, Bon de commande
+Entité chargée de la réception de la demande: Direction Commerciale
+Entités chargées du traitement de la demande: Direction Commerciale
+Entité chargée de fournir la prestation demandée: Service de facturation
+Délai de traitement: 24h
+Entité chargée de recevoir les réclamations: Direction Commerciale
+Contact: Secrétariat de la Direction

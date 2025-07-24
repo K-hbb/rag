@@ -1,0 +1,12 @@
+Titre de la procédure: Dépôt légal d'ouvrage (livre)
+URL: https://procedures.gov.mr/fr/procedure/1083
+
+Description de la procédure ou du service: Obtenir un numéro de dépôt légal pour les éditeurs ou les auteurs
+Usagers de la procédure: Particuliers
+Entité chargée de la procédure: Bibliothèque nationale
+Documents requis: Service en ligne : https://bnm.gov.mr/?page_id=40
+Entité chargée de la réception de la demande: Remplir le formulaire sur le site de la bibliothèque : https://bnm.gov.mr/?page_id=40
+Entités chargées du traitement de la demande: Bibliothèque Nationale
+Entité chargée de fournir la prestation demandée: Bibliothèque Nationale
+Délai de traitement: 3 à 20 jours
+Entité chargée de recevoir les réclamations: Direction de la bibliothèque

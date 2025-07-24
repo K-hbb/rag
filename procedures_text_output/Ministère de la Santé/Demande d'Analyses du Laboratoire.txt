@@ -1,0 +1,24 @@
+Titre de la procédure: Demande d'Analyses du Laboratoire
+URL: https://procedures.gov.mr/fr/procedure/1557
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service du laboratoire
+ Bureau des entrées
+Documents requis: Bulletin d’analyse visé par le prestataire 
+ Prise en charge 
+ Bon d'urgence 
+ Reçus de paiement
+Entité chargée de la réception de la demande: Service Laboratoire
+Entités chargées du traitement de la demande: Laboratoire
+ Service urgence.
+Service consultations externes. 
+ Différents services d’hospitalisation
+Entité chargée de fournir la prestation demandée: Labo central
+  Labo urgences
+Délai de traitement: Immédiat  	24 à 72h après
+Frais afférents à la procédure: Prix des analyses
+Entité chargée de recevoir les réclamations: Surveillant de laboratoire 
+Service khadematy
+Contact: BP    TEL: 22469796 surveillant Labo contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHCZ en date du 2001
+ Statut et règlement intérieur du CHCZ

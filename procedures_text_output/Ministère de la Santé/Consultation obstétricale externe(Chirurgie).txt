@@ -1,0 +1,13 @@
+Titre de la procédure: Consultation obstétricale externe(Chirurgie)
+URL: https://procedures.gov.mr/fr/procedure/1723
+
+Description de la procédure ou du service: La patiente doit être consultée par un gynécologue spécialisé pour effectuer un diagnostic
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de maternité, bloc opératoire
+Entité chargée de la réception de la demande: Service de maternité, bloc opératoire
+Entités chargées du traitement de la demande: Service de maternité, bloc opératoire
+Entité chargée de fournir la prestation demandée: Service de maternité, bloc opératoire
+Délai de traitement: immédiat
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Réquisition Service de maternité, bloc opératoire
+Contact: contact@sante.gov.mr

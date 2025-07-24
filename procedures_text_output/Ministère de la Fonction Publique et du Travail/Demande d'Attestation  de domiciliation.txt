@@ -1,0 +1,10 @@
+Titre de la procédure: Demande d'Attestation  de domiciliation
+URL: https://procedures.gov.mr/fr/procedure/1353
+
+Description de la procédure ou du service: Demande  d'une attestation  de domiciliation
+Entité chargée de la procédure: Service  financier/CNSS
+Entité chargée de la réception de la demande: Service financier/CNSS
+Entités chargées du traitement de la demande: Direction financière/CNSS
+Entité chargée de fournir la prestation demandée: Service financier
+Délai de traitement: 1 jour
+Entité chargée de recevoir les réclamations: Service financier

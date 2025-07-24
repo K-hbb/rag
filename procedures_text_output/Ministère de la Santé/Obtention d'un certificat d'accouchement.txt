@@ -1,0 +1,17 @@
+Titre de la procédure: Obtention d'un certificat d'accouchement
+URL: https://procedures.gov.mr/fr/procedure/1601
+
+Description de la procédure ou du service: Recuperation du certificat d'accouchemnt 
+
+La procédure de délivrance du certificat d'accouchement démarre à la naissance à l'hôpital, où les parents fournissent les détails nécessaires et reçoivent le certificat attestant de l'accouchement au CHME. Ensuite, ils peuvent demander l'extrait de naissance pour obtenir un document officiel complet.
+Usagers de la procédure: Patient,                                                                                     Accompagnant
+Entité chargée de la procédure: Le service de la maternité
+Documents requis: -Copie de la carte d’identité du père
+- Copie de la carte d'identité de la mère
+-3 photos du nouveau né
+-Reçu accouchement
+Entité chargée de la réception de la demande: Bureaux d'entrée
+Entités chargées du traitement de la demande: Service de la maternité et le bureau d'entrée
+Entité chargée de fournir la prestation demandée: Bureau d'entrée
+Délai de traitement: 1-2 jours
+Entité chargée de recevoir les réclamations: Bureaux d'entrée

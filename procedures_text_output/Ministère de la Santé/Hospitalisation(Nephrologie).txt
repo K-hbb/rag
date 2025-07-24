@@ -1,0 +1,15 @@
+Titre de la procédure: Hospitalisation(Nephrologie)
+URL: https://procedures.gov.mr/fr/procedure/1667
+
+Usagers de la procédure: Patient Néphrologie
+Entité chargée de la procédure: service Néphrologie
+Documents requis: -Bilan 
+ -Pièce d'identité-Pris en charge
+Entité chargée de la réception de la demande: service Néphrologie
+Entités chargées du traitement de la demande: Major de Néphrologie
+Entité chargée de fournir la prestation demandée: Médcine
+Délai de traitement: Immédiat
+Frais afférents à la procédure: 1500 pour 5 jours (chambre individuelle) - 300 pour 5jours (chambre collective)
+Entité chargée de recevoir les réclamations: Surveillant général et Major
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Protocole de l'hôpital

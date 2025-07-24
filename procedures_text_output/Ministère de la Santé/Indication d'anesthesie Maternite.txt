@@ -1,0 +1,21 @@
+Titre de la procédure: Indication d'anesthesie Maternite
+URL: https://procedures.gov.mr/fr/procedure/1624
+
+Description de la procédure ou du service: 1-Verification du document(patient à jeun,coordonnées du malade) 
+2-dossier staffe par le chef de service et le surveillant du bloc
+3-Etablir le programme opératoire de la semaine
+4-Informer le patient du jour de l'opération 
+5-convoquer le patient deux jours avant l'opération
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Maternite Service Bloc operatoire
+Documents requis: Bilan biologique et radiologique :
+-Scanner
+-Radio thorax
+-IRM
+Entité chargée de la réception de la demande: Surveillant du bloc operatoire
+Entités chargées du traitement de la demande: Surveillant du bloc opératoire de la maternité
+Entité chargée de fournir la prestation demandée: Surveillant du bloc opératoire de la maternité
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: non preciser
+Entité chargée de recevoir les réclamations: L'administration centrale de hospital Nationale
+Contact: contact@sante.gov.mr

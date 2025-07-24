@@ -1,0 +1,18 @@
+Titre de la procédure: Demander un rendez-vous pour des examens externes au Centre National de Cardiologie
+URL: https://procedures.gov.mr/fr/procedure/1541
+
+Description de la procédure ou du service: Demande d'examen
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Accueil au CNC
+Documents requis: Feuille d'examen
+Code patient au centre, si disponible
+Assurance
+Carte d'identité
+Entité chargée de la réception de la demande: Accueil au CNC
+Entités chargées du traitement de la demande: Accueil au CNC
+Entité chargée de fournir la prestation demandée: Laboratoire en cas d'analyses de sang
+Imagerie médicale dans le cas d'un scanner. ETT. MAPA. ECG HOLTEUR. ...ect
+Section de cathétérisme en cas de cathétérisme diagnostique
+Délai de traitement: Immédiat
+Entité chargée de recevoir les réclamations: Service d'admission et de facturation
+Contact: Centre d'information : 45252550

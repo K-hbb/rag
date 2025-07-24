@@ -1,0 +1,13 @@
+Titre de la procédure: Nutrition Pédiatrie(Service de pediatrie)
+URL: https://procedures.gov.mr/fr/procedure/1805
+
+Usagers de la procédure: Enfants,                                                                                     Nouveaux nés
+Entité chargée de la procédure: Service de Nutrition
+Documents requis: fiche de référence Crennas à creni ou fiche d'observation Urgence
+Entité chargée de la réception de la demande: Service de nutrition et de soin
+Entités chargées du traitement de la demande: les nutritionnistes
+Entité chargée de fournir la prestation demandée: les nutritionnistes
+Délai de traitement: Une Semaine
+Frais afférents à la procédure: Frais d'un bilan selon le diagnostic du médecin +les frai de l'hospitalisation en  3éme catégorie 300 MRU pour 5 jours
+Entité chargée de recevoir les réclamations: Major du service Nutrition
+Contact: contact@sante.gov.mr

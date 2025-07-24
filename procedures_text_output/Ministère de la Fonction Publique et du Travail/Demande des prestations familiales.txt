@@ -1,0 +1,15 @@
+Titre de la procédure: Demande des prestations familiales
+URL: https://procedures.gov.mr/fr/procedure/1355
+
+Description de la procédure ou du service: Paiement des prestations familiales  pour les enfants  des employés
+Entité chargée de la procédure: Service  prestations familiales/CNSS
+Documents requis: Formulaire demande de prestations familiales ;
+Acte de naissance de l'assuré ;
+Acte de naissance  du conjoint (conjointe)
+Actes de naissance  des enfants ;
+Certificats de vie ou de scolarité  des enfants ;
+Bulletin de salaire  ou de présence ;
+Entité chargée de la réception de la demande: Guichet métier ;Guichet khadematy/CNSS
+Entités chargées du traitement de la demande: Guichet métier ;service  Prestations familiales ;services contrôle des assurés sociaux ;caisse ;
+Entité chargée de fournir la prestation demandée: Caisse
+Entité chargée de recevoir les réclamations: Guichet métier ;Guichet khadematy ;service financier

@@ -1,0 +1,17 @@
+Titre de la procédure: Césarienne (urgence et prophylactique)
+URL: https://procedures.gov.mr/fr/procedure/1627
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Bloc operatoire
+Documents requis: 1-Urgence :
+-kit médicament
+-kit césarienne
+2-prophylactique:
+-fiche anesthésie
+Entité chargée de la réception de la demande: Service Bloc operatoire
+Entités chargées du traitement de la demande: Service Bloc operatoire
+Entité chargée de fournir la prestation demandée: Service Bloc operatoire
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: 2300 mru kite medicament-4300mru kite cesarienne -4500 kite cesarienne prophylactique
+Entité chargée de recevoir les réclamations: Requisition service maternite
+Contact: contact@sante.gov.mr

@@ -1,0 +1,17 @@
+Titre de la procédure: Authentification d'un plan
+URL: https://procedures.gov.mr/fr/procedure/1099
+
+Description de la procédure ou du service: Vérification de l'existence d'un plan de lotissement dans l'archive
+Usagers de la procédure: Particuliers
+Entité chargée de la procédure: Direction des opérations Urbaine
+Documents requis: Document d'attribution 
+Carte d'identité
+Entité chargée de la réception de la demande: Direction des opérations Urbaine
+Entités chargées du traitement de la demande: Direction des opérations Urbaine
+Entité chargée de fournir la prestation demandée: Direction des opérations Urbaine
+Délai de traitement: 3 jours
+Frais afférents à la procédure: NON
+Entité chargée de recevoir les réclamations: Service Khadamaty
+Contact: contact@habitat.mr 
+Khadamaty
+Bases juridiques et réglementaires de la procédure: Code de l'urbanisme ART 81

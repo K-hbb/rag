@@ -1,0 +1,2866 @@
+[
+  {
+    "query": "Constitution de partie civile dans les affaires relatives aux pratiques esclavagistes",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Constitution de partie civile dans les affaires relatives aux pratiques esclavagistes"
+  },
+  {
+    "query": "Lutte Contre le Trafic de Migrants",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Lutte Contre le Trafic de Migrants"
+  },
+  {
+    "query": "Attestation de partenariat fournis aux Organisations de la Société Civile",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Attestation de partenariat fournis aux Organisations de la Société Civile"
+  },
+  {
+    "query": "Mise à disposition de documents/rapports au profit des chercheurs et étudiants spécialisés en Droits de l'Homme et d'autres domaines relevant du Département",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Mise à disposition de documents_rapports au profit des chercheurs et étudiants spécialisés en Droits de l'Homme et d'autres domaines relevant du Dépar"
+  },
+  {
+    "query": "Aides sociales (indigents, malades et victimes d'incendies)",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Aides sociales (indigents, malades et victimes d'incendies)"
+  },
+  {
+    "query": "Formation des Organisations de la Société Civile",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Formation des Organisations de la Société Civile"
+  },
+  {
+    "query": "Appui aux Associations pour participation aux colloques régionaux et internationaux",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Appui aux Associations pour participation aux colloques régionaux et internationaux"
+  },
+  {
+    "query": "Accompagnement des Organisations de la Société Civile dans le processus d'enregistrement sur FEDDAM",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Accompagnement des Organisations de la Société Civile dans le processus d'enregistrement sur FEDDAM"
+  },
+  {
+    "query": "Pôles de développement intégré",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Pôles de développement intégré"
+  },
+  {
+    "query": "Réception et traitement des plaintes relatives aux violations des Droits de l'Homme",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Réception et traitement des plaintes relatives aux violations des Droits de l'Homme"
+  },
+  {
+    "query": "Protection et Assistance aux victimes de la Traite des personnes",
+    "gold_doc": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile__Protection et Assistance aux victimes de la Traite des personnes"
+  },
+  {
+    "query": "Achat dossier d'appel d'offre",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Achat dossier d'appel d'offre"
+  },
+  {
+    "query": "Autorisation de construction",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Autorisation de construction"
+  },
+  {
+    "query": "Gestion de litige",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Gestion de litige"
+  },
+  {
+    "query": "Cession de grés à grés Société ISKAN",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Cession de grés à grés Société ISKAN"
+  },
+  {
+    "query": "Agrément des promoteur immobilier",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Agrément des promoteur immobilier"
+  },
+  {
+    "query": "Passation des Marchés ETR-ML",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Passation des Marchés ETR-ML"
+  },
+  {
+    "query": "Décompte Société ISKAN",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Décompte Société ISKAN"
+  },
+  {
+    "query": "Mutation de l'attestation de propriété Société ISKAN",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Mutation de l'attestation de propriété Société ISKAN"
+  },
+  {
+    "query": "Edition Duplicata ADU",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Edition Duplicata ADU"
+  },
+  {
+    "query": "Qualification et classification des Entreprises, des Bâtiments et des Travaux Publics (EBTP)",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Qualification et classification des Entreprises, des Bâtiments et des Travaux Publics (EBTP)"
+  },
+  {
+    "query": "Occupation illégale d'un domaine public",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Occupation illégale d'un domaine public"
+  },
+  {
+    "query": "Passation des Marchés  ANESP",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Passation des Marchés  ANESP"
+  },
+  {
+    "query": "Certification d’extrait d’un plan lotissement",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Certification d’extrait d’un plan lotissement"
+  },
+  {
+    "query": "Payements des décomptes ETR-ML",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Payements des décomptes ETR-ML"
+  },
+  {
+    "query": "Authentification d'un plan",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Authentification d'un plan"
+  },
+  {
+    "query": "Vérification des Badges ADU",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Vérification des Badges ADU"
+  },
+  {
+    "query": "Correction de plan",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Correction de plan"
+  },
+  {
+    "query": "Certificat d’implantation d’un lot",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Certificat d’implantation d’un lot"
+  },
+  {
+    "query": "Résolution pour entreprise",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Résolution pour entreprise"
+  },
+  {
+    "query": "Agrément de Promoteur Immobilier",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Agrément de Promoteur Immobilier"
+  },
+  {
+    "query": "Attestation de propriété Société ISKAN",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Attestation de propriété Société ISKAN"
+  },
+  {
+    "query": "Suivi de  décomptes  pour les entreprises et bureaux",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Suivi de  décomptes  pour les entreprises et bureaux"
+  },
+  {
+    "query": "Edition Badge ADU",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Edition Badge ADU"
+  },
+  {
+    "query": "Litige Double Attribution",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Litige Double Attribution"
+  },
+  {
+    "query": "DAO Société ISKAN",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__DAO Société ISKAN"
+  },
+  {
+    "query": "Proposition de terrain",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Proposition de terrain"
+  },
+  {
+    "query": "Edition QUITUS ADU",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Edition QUITUS ADU"
+  },
+  {
+    "query": "Payements des décomptes ANESP",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Payements des décomptes ANESP"
+  },
+  {
+    "query": "Eclatement Badges ADU",
+    "gold_doc": "Ministère de l’Habitat, de l’Urbanisme et de l’Aménagement du Territoire__Eclatement Badges ADU"
+  },
+  {
+    "query": "Distribution de matériel agricole",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Distribution de matériel agricole"
+  },
+  {
+    "query": "IMPORTATION",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__IMPORTATION"
+  },
+  {
+    "query": "Assurer l’encadrement technique pour la culture fourragère",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Assurer l’encadrement technique pour la culture fourragère"
+  },
+  {
+    "query": "Appui à la modernisation et à l’amélioration des conditions d’irrigation pour la culture fourragère",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui à la modernisation et à l’amélioration des conditions d’irrigation pour la culture fourragère"
+  },
+  {
+    "query": "Etablissements souhaitant se lancer dans le domaine du commerce des pesticides agricoles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Etablissements souhaitant se lancer dans le domaine du commerce des pesticides agricoles"
+  },
+  {
+    "query": "Obtention d'equipement de protection ( bottes et gants speciaux)",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention d'equipement de protection ( bottes et gants speciaux)"
+  },
+  {
+    "query": "Accés à l'encadrement et l'assistance technique",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Accés à l'encadrement et l'assistance technique"
+  },
+  {
+    "query": "Appui par machines et équipements pour la culture du fourrage",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui par machines et équipements pour la culture du fourrage"
+  },
+  {
+    "query": "Encadrement des activités régionales",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Encadrement des activités régionales"
+  },
+  {
+    "query": "REEXPORTATION",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__REEXPORTATION"
+  },
+  {
+    "query": "Mise en place d'une unité d'irrigation au sein des oasis",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Mise en place d'une unité d'irrigation au sein des oasis"
+  },
+  {
+    "query": "Obtention d'unité de transformation de fourrage",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention d'unité de transformation de fourrage"
+  },
+  {
+    "query": "Achat de la production (dattes ou légumes)",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Achat de la production (dattes ou légumes)"
+  },
+  {
+    "query": "Exonération des intrants et matériels agricoles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Exonération des intrants et matériels agricoles"
+  },
+  {
+    "query": "accéder aux Semence et aux fiches techniquees",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__accéder aux Semence et aux fiches techniquees"
+  },
+  {
+    "query": "techniques culturales dattier",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__techniques culturales dattier"
+  },
+  {
+    "query": "Constitution coopératives",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Constitution coopératives"
+  },
+  {
+    "query": "Vulgarisation agricole",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Vulgarisation agricole"
+  },
+  {
+    "query": "Etablissements d'importation des végétaux et produits végétaux",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Etablissements d'importation des végétaux et produits végétaux"
+  },
+  {
+    "query": "Diagnostic DE L'Etat phytosanitaire",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Diagnostic DE L'Etat phytosanitaire"
+  },
+  {
+    "query": "Régularisation foncière",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Régularisation foncière"
+  },
+  {
+    "query": "Construction, restauration et clôture de barrages",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Construction, restauration et clôture de barrages"
+  },
+  {
+    "query": "Appui concernant l’infrastructure relative à l’aliments de bétails",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui concernant l’infrastructure relative à l’aliments de bétails"
+  },
+  {
+    "query": "Bénéficier d'hangars de fanage et  stockage",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Bénéficier d'hangars de fanage et  stockage"
+  },
+  {
+    "query": "Agrément des Association de Gestion Participative des Oasis",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Agrément des Association de Gestion Participative des Oasis"
+  },
+  {
+    "query": "palmiers ornementaux",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__palmiers ornementaux"
+  },
+  {
+    "query": "Etablissements d'exportation des végétaux et produits végétaux",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Etablissements d'exportation des végétaux et produits végétaux"
+  },
+  {
+    "query": "Obtention de  grillage et outils de clôture",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention de  grillage et outils de clôture"
+  },
+  {
+    "query": "enregistrement du site dans le répertoire national des sites fourragers ( base de donnée du PDCF)",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__enregistrement du site dans le répertoire national des sites fourragers ( base de donnée du PDCF)"
+  },
+  {
+    "query": "Demander de l'aide en intrants pour la culture fourragère",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Demander de l'aide en intrants pour la culture fourragère"
+  },
+  {
+    "query": "alimentation des lacs de surface",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__alimentation des lacs de surface"
+  },
+  {
+    "query": "Attestations de formation",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Attestations de formation"
+  },
+  {
+    "query": "Demande d'aide",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Demande d'aide"
+  },
+  {
+    "query": "Valorisation de la production",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Valorisation de la production"
+  },
+  {
+    "query": "Obtention de Faucheuse",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention de Faucheuse"
+  },
+  {
+    "query": "Obtention de presse à pailles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention de presse à pailles"
+  },
+  {
+    "query": "Obtention d'engrais follières",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention d'engrais follières"
+  },
+  {
+    "query": "Distribution des intrants agricoles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Distribution des intrants agricoles"
+  },
+  {
+    "query": "Mise en œuvre de l’Accord-cadre de programme de développement territorial (PDT) de partenariat pour le développement de la grappe de villages sur la base du diagnostic territorial",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Mise en œuvre de l’Accord-cadre de programme de développement territorial (PDT) de partenariat pour le développement de la grappe de villages sur la b"
+  },
+  {
+    "query": "pollinisation palmier",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__pollinisation palmier"
+  },
+  {
+    "query": "vitroplant pommes  de terres",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__vitroplant pommes  de terres"
+  },
+  {
+    "query": "Réception et traitement des demandes adresses au P.P.D.O",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Réception et traitement des demandes adresses au P.P.D.O"
+  },
+  {
+    "query": "Agrément des Etablissements Producteurs de  semences et Plants",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Agrément des Etablissements Producteurs de  semences et Plants"
+  },
+  {
+    "query": "Mise à disposition des données statistiques agricoles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Mise à disposition des données statistiques agricoles"
+  },
+  {
+    "query": "Obtention de desherbeuse",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention de desherbeuse"
+  },
+  {
+    "query": "Appui aux intrants (semences traditionnelles, semences potagères, outils de jardinage,",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui aux intrants (semences traditionnelles, semences potagères, outils de jardinage,"
+  },
+  {
+    "query": "Mesurer les périmètres cultivés et déterminer leur productivité",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Mesurer les périmètres cultivés et déterminer leur productivité"
+  },
+  {
+    "query": "Agrément de coopératives",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Agrément de coopératives"
+  },
+  {
+    "query": "Vente du produit final (dattes ou légumes)",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Vente du produit final (dattes ou légumes)"
+  },
+  {
+    "query": "EXPORTATION",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__EXPORTATION"
+  },
+  {
+    "query": "Lutte contre les ravageurs agricoles dans les champs",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Lutte contre les ravageurs agricoles dans les champs"
+  },
+  {
+    "query": "Bénéficier d'un approfondissement des puits",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Bénéficier d'un approfondissement des puits"
+  },
+  {
+    "query": "Appui dans le domaine de l'irrigation",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui dans le domaine de l'irrigation"
+  },
+  {
+    "query": "Agrément des coopératives/Union des coopératives",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Agrément des coopératives_Union des coopératives"
+  },
+  {
+    "query": "Appui technique, encadrement et conseils",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Appui technique, encadrement et conseils"
+  },
+  {
+    "query": "Obtention Pulverisateur électrique",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention Pulverisateur électrique"
+  },
+  {
+    "query": "Aménagement des Infrastructures Rurales",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Aménagement des Infrastructures Rurales"
+  },
+  {
+    "query": "Obtention des equipement d'irrigation",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention des equipement d'irrigation"
+  },
+  {
+    "query": "Programmation de la réhabilitation et clôture des zones agricoles",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Programmation de la réhabilitation et clôture des zones agricoles"
+  },
+  {
+    "query": "Réception de la production des agriculteurs",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Réception de la production des agriculteurs"
+  },
+  {
+    "query": "Obtention de semoir",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Obtention de semoir"
+  },
+  {
+    "query": "Bénéficier d'une formation",
+    "gold_doc": "Ministère de l’Agriculture et de la Souveraineté Alimentaire__Bénéficier d'une formation"
+  },
+  {
+    "query": "Demandes de révision des résultats et réclamations- Direction des examens et des concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Demandes de révision des résultats et réclamations- Direction des examens et des concours"
+  },
+  {
+    "query": "Transfert des élèves dans l'enseignement secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Transfert des élèves dans l'enseignement secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Décisions d'attribution de bourses aux étudiants admis en première année du secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Décisions d'attribution de bourses aux étudiants admis en première année du secondaire"
+  },
+  {
+    "query": "Légalisation des bulletins de notes",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation des bulletins de notes"
+  },
+  {
+    "query": "Numérotation des étudiants sur la plateforme Sirage",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Numérotation des étudiants sur la plateforme Sirage"
+  },
+  {
+    "query": "Indemnité",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Indemnité"
+  },
+  {
+    "query": "Délivrance de certificat du fondamental - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Délivrance de certificat du fondamental - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Intégration des élèves des mahadras dans l'enseignement secondaire - Direction de l' Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Intégration des élèves des mahadras dans l'enseignement secondaire - Direction de l' Enseignement Secondaire"
+  },
+  {
+    "query": "Rectification de l'état civil des élèves de l'enseignement secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Rectification de l'état civil des élèves de l'enseignement secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Résoudre les conflits entre écoles (Respectez la distance entre les écoles)",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Résoudre les conflits entre écoles (Respectez la distance entre les écoles)"
+  },
+  {
+    "query": "Encadrement des gérants des établissements d'enseignement privés sur la plateforme (SIGE)",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Encadrement des gérants des établissements d'enseignement privés sur la plateforme (SIGE)"
+  },
+  {
+    "query": "Orientation les élèves du secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Orientation les élèves du secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Délivrance des attestations d'orientation - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Délivrance des attestations d'orientation - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Insertion des enfants à besoins spécifiques dans l'enseignement formel- Direction de l'Enseignement Fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Insertion des enfants à besoins spécifiques dans l'enseignement formel- Direction de l'Enseignement Fondamental"
+  },
+  {
+    "query": "Retrait des diplômes : Baccalauréat - BEPC - Fondamental - Certificat d'Aptitude pédagogique - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Retrait des diplômes _ Baccalauréat - BEPC - Fondamental - Certificat d'Aptitude pédagogique - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Réception des dossiers familiaux - Direction de l'Enseignement fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Réception des dossiers familiaux - Direction de l'Enseignement fondamental"
+  },
+  {
+    "query": "Insertion des élèves des mahadras qui souhaitent accéder à l'Enseignement formel - Direction de l'Enseignement fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Insertion des élèves des mahadras qui souhaitent accéder à l'Enseignement formel - Direction de l'Enseignement fondamental"
+  },
+  {
+    "query": "Intégration des rapatriés de l'étranger dans l'enseignement secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Intégration des rapatriés de l'étranger dans l'enseignement secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Autorisations d'enseignement",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Autorisations d'enseignement"
+  },
+  {
+    "query": "Intégration des candidats exclus par erreur lors du concours d'entrée en première année du collège - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Intégration des candidats exclus par erreur lors du concours d'entrée en première année du collège - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Aurtoisations de gestion",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Aurtoisations de gestion"
+  },
+  {
+    "query": "Délivrance d'un duplicata du Certificat de d'Aptitude Pédagogique - Direction des examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Délivrance d'un duplicata du Certificat de d'Aptitude Pédagogique - Direction des examens et des Concours"
+  },
+  {
+    "query": "Indemnité - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Indemnité - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Réinsertion dans l'enseignement secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Réinsertion dans l'enseignement secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Numérotation des étudiants étrangers résidant en République Islamique de Mauritanie.",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Numérotation des étudiants étrangers résidant en République Islamique de Mauritanie."
+  },
+  {
+    "query": "Promotion et mutation des personnels de l'enseignement secondaire - Direction de l'Enseignement Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Promotion et mutation des personnels de l'enseignement secondaire - Direction de l'Enseignement Secondaire"
+  },
+  {
+    "query": "Retrait des relevés de notes du baccalauréat pour les élèves ajournés - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Retrait des relevés de notes du baccalauréat pour les élèves ajournés - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Légalisation du BEPC - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation du BEPC - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Retrait des relevés de notes du baccalauréat pour les élèves admis - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Retrait des relevés de notes du baccalauréat pour les élèves admis - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Légalisation des certificats de travail",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation des certificats de travail"
+  },
+  {
+    "query": "Délivrance d'un duplicata du baccalauréat et des certificats BECP- Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Délivrance d'un duplicata du baccalauréat et des certificats BECP- Direction des Examens et des Concours"
+  },
+  {
+    "query": "Légalisation du diplôme du baccalauréat - Direction des Examens et des Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation du diplôme du baccalauréat - Direction des Examens et des Concours"
+  },
+  {
+    "query": "Retrait de relevé de notes de concours - Direction des Examens et de Concours",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Retrait de relevé de notes de concours - Direction des Examens et de Concours"
+  },
+  {
+    "query": "Demande d'ouverture d'école",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Demande d'ouverture d'école"
+  },
+  {
+    "query": "Délivrance de la lettre  de finalisation du dossier d'autorisation d’un établissement d'enseignement privé",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Délivrance de la lettre  de finalisation du dossier d'autorisation d’un établissement d'enseignement privé"
+  },
+  {
+    "query": "Légalisation des relevés de notes délivrés par un établissement public secondaire - Direction de l'Enseignements Secondaire",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation des relevés de notes délivrés par un établissement public secondaire - Direction de l'Enseignements Secondaire"
+  },
+  {
+    "query": "Insertion des enfants non scolarisés dans le système éducatif national - Direction de l'Enseignement Fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Insertion des enfants non scolarisés dans le système éducatif national - Direction de l'Enseignement Fondamental"
+  },
+  {
+    "query": "Correction (niveaux, orientations, divisions) pour les étudiants sur la plateforme Sirage",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Correction (niveaux, orientations, divisions) pour les étudiants sur la plateforme Sirage"
+  },
+  {
+    "query": "Inscription et transfert des élèves- Direction de l'Enseignement Fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Inscription et transfert des élèves- Direction de l'Enseignement Fondamental"
+  },
+  {
+    "query": "Légalisation des documents scolaires publics pour les étudiants désirant le transfert à l'étranger - Direction de l'Enseignement Fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Légalisation des documents scolaires publics pour les étudiants désirant le transfert à l'étranger - Direction de l'Enseignement Fondamental"
+  },
+  {
+    "query": "Travailler avec les organisations de la société civile s'intéressant a des enfants non scolarisés - Direction de l'Enseignement fondamental",
+    "gold_doc": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement__Travailler avec les organisations de la société civile s'intéressant a des enfants non scolarisés - Direction de l'Enseignement fondamental"
+  },
+  {
+    "query": "Mobilisation des volontaires nationaux (4 à 12 mois)",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Mobilisation des volontaires nationaux (4 à 12 mois)"
+  },
+  {
+    "query": "Accueil et Inscription des Demandeurs d'emploi sur la Base de données  de TECHGHIL",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Accueil et Inscription des Demandeurs d'emploi sur la Base de données  de TECHGHIL"
+  },
+  {
+    "query": "Rencontre pour accompagnement",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Rencontre pour accompagnement"
+  },
+  {
+    "query": "Constitution de groupes WhatsApp",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Constitution de groupes WhatsApp"
+  },
+  {
+    "query": "Avis de Recrutement",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Avis de Recrutement"
+  },
+  {
+    "query": "Postuler à mon projet mon avenir",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Postuler à mon projet mon avenir"
+  },
+  {
+    "query": "Demande de permis de travail",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Demande de permis de travail"
+  },
+  {
+    "query": "Mobilisation des volontaires du Service Civique courte durée  (15 jours à 4 mois)",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Mobilisation des volontaires du Service Civique courte durée  (15 jours à 4 mois)"
+  },
+  {
+    "query": "Mise à disposition d'une infrastructure de jeunesse ou de sport",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Mise à disposition d'une infrastructure de jeunesse ou de sport"
+  },
+  {
+    "query": "Etablissement de la liste des entrepreneurs à accompagner",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Etablissement de la liste des entrepreneurs à accompagner"
+  },
+  {
+    "query": "Publication des offres d'Emploi",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Publication des offres d'Emploi"
+  },
+  {
+    "query": "Postuler dans les offres d'Emploi",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Postuler dans les offres d'Emploi"
+  },
+  {
+    "query": "Demande d’autorisation d’ouverture d’un établissement privé de formation professionnelle",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Demande d’autorisation d’ouverture d’un établissement privé de formation professionnelle"
+  },
+  {
+    "query": "S'inscrire sur le registre national des volontaires",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__S'inscrire sur le registre national des volontaires"
+  },
+  {
+    "query": "Mise à disposition de la salle de l'ancienne maison de jeunes - NKC",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Mise à disposition de la salle de l'ancienne maison de jeunes - NKC"
+  },
+  {
+    "query": "Demande d'Autorisation Provisoire",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Demande d'Autorisation Provisoire"
+  },
+  {
+    "query": "Offre de Service pour les entreprises",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Offre de Service pour les entreprises"
+  },
+  {
+    "query": "TED'IM  est une nouvelle approche de promotion de l'emploi centrée  sur la petite et Moyenne Enterprise",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__TED'IM  est une nouvelle approche de promotion de l'emploi centrée  sur la petite et Moyenne Enterprise"
+  },
+  {
+    "query": "Mise à disposition d'un espace du Complexe olympique de Nouakchott",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Mise à disposition d'un espace du Complexe olympique de Nouakchott"
+  },
+  {
+    "query": "Demande de la liste",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Demande de la liste"
+  },
+  {
+    "query": "Traitement de la liste",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__Traitement de la liste"
+  },
+  {
+    "query": "SharePoint",
+    "gold_doc": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique__SharePoint"
+  },
+  {
+    "query": "Résiliation de l'abonnement à la demande du client",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Résiliation de l'abonnement à la demande du client"
+  },
+  {
+    "query": "Données sur un point d'eau",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Données sur un point d'eau"
+  },
+  {
+    "query": "Demande d'autorisation  de réalisation de puits ou forage",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Demande d'autorisation  de réalisation de puits ou forage"
+  },
+  {
+    "query": "Réalisation des stations de traitement des eaux de surface",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Réalisation des stations de traitement des eaux de surface"
+  },
+  {
+    "query": "Nouveau branchement d'eau",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Nouveau branchement d'eau"
+  },
+  {
+    "query": "Réalisation des usines de dessalement",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Réalisation des usines de dessalement"
+  },
+  {
+    "query": "Realisation des barrages",
+    "gold_doc": "Ministère de l'Hydraulique et de l'Assainissement__Realisation des barrages"
+  },
+  {
+    "query": "Accord de principe pour l’Installation d’une unité industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Accord de principe pour l’Installation d’une unité industrielle"
+  },
+  {
+    "query": "Demande de terrain à usage industriel",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Demande de terrain à usage industriel"
+  },
+  {
+    "query": "Autorisation pour Substances  Explosives",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Autorisation pour Substances  Explosives"
+  },
+  {
+    "query": "Autorisation de conditionnement  d’eau minérale naturelle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Autorisation de conditionnement  d’eau minérale naturelle"
+  },
+  {
+    "query": "Certificat de constat de vérification des instruments de mesure",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Certificat de constat de vérification des instruments de mesure"
+  },
+  {
+    "query": "Autorisation d’Exploitation de carrière industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Autorisation d’Exploitation de carrière industrielle"
+  },
+  {
+    "query": "Certificat de Conformité de Fabrication",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Certificat de Conformité de Fabrication"
+  },
+  {
+    "query": "Mutation d'un Permis de Recherche Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Mutation d'un Permis de Recherche Minière"
+  },
+  {
+    "query": "Autorisation d’une boulangerie et pâtisserie industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Autorisation d’une boulangerie et pâtisserie industrielle"
+  },
+  {
+    "query": "Renouvellement d'un Permis de Recherche Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Renouvellement d'un Permis de Recherche Minière"
+  },
+  {
+    "query": "Mutation d'un Permis de Petite Exploitation Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Mutation d'un Permis de Petite Exploitation Minière"
+  },
+  {
+    "query": "Mutation de Carrière Industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Mutation de Carrière Industrielle"
+  },
+  {
+    "query": "Renouvellement de Carrière Industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Renouvellement de Carrière Industrielle"
+  },
+  {
+    "query": "Accès aux normes, référentiels et veilles normatifs",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Accès aux normes, référentiels et veilles normatifs"
+  },
+  {
+    "query": "Certificat d'etalonnage des instruments de mesure",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Certificat d'etalonnage des instruments de mesure"
+  },
+  {
+    "query": "Octroi d'un Permis de Petite Exploitation Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Octroi d'un Permis de Petite Exploitation Minière"
+  },
+  {
+    "query": "Certificat d’enregistrement d’une unité industrielle",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Certificat d’enregistrement d’une unité industrielle"
+  },
+  {
+    "query": "Octroi d'un Permis d'Exploitation Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Octroi d'un Permis d'Exploitation Minière"
+  },
+  {
+    "query": "Enregistrement des titres en propriété industrielle (Brevets, Marques, Noms Commerciaux Dessins et Modèles Industriels, Indications Géographiques)",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Enregistrement des titres en propriété industrielle (Brevets, Marques, Noms Commerciaux Dessins et Modèles Industriels, Indications Géographiques)"
+  },
+  {
+    "query": "Renouvellement d'un Permis de Petite Exploitation Minière",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Renouvellement d'un Permis de Petite Exploitation Minière"
+  },
+  {
+    "query": "Octroi d'un Permis de Recherche  d’un titre Minier",
+    "gold_doc": "Ministère des Mines et de l'Industrie__Octroi d'un Permis de Recherche  d’un titre Minier"
+  },
+  {
+    "query": "Demande d'immatriculation  d'un employeur",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'immatriculation  d'un employeur"
+  },
+  {
+    "query": "Déclaration de contrat de sous-entreprise",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Déclaration de contrat de sous-entreprise"
+  },
+  {
+    "query": "Demande d'une Attestation de Non Emploi",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'une Attestation de Non Emploi"
+  },
+  {
+    "query": "Procédures de Formation continue, de  Stage et de Perfectionnement",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Procédures de Formation continue, de  Stage et de Perfectionnement"
+  },
+  {
+    "query": "Réintégrer le salarié dans son emploi et le nommer à un poste public",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Réintégrer le salarié dans son emploi et le nommer à un poste public"
+  },
+  {
+    "query": "Demande de prestations (pension, risque professionnel, prestations familiales)",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande de prestations (pension, risque professionnel, prestations familiales)"
+  },
+  {
+    "query": "Procédures d'établissement (pour les fonctionnaires)",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Procédures d'établissement (pour les fonctionnaires)"
+  },
+  {
+    "query": "Procédure d'Avancement de Grade",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Procédure d'Avancement de Grade"
+  },
+  {
+    "query": "Procédure d’enregistrement des entreprises Et d’immatriculation de leurs personnels a l’ ONMT",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Procédure d’enregistrement des entreprises Et d’immatriculation de leurs personnels a l’ ONMT"
+  },
+  {
+    "query": "Démission",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Démission"
+  },
+  {
+    "query": "Visas des contrats de travail",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Visas des contrats de travail"
+  },
+  {
+    "query": "Mise à disposition",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Mise à disposition"
+  },
+  {
+    "query": "Détachement",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Détachement"
+  },
+  {
+    "query": "Attestation des États de Service (pour la Procédure de Mise à la Retraite ou en cas de décès)",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Attestation des États de Service (pour la Procédure de Mise à la Retraite ou en cas de décès)"
+  },
+  {
+    "query": "Demande d'une  attestation  de régularité",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'une  attestation  de régularité"
+  },
+  {
+    "query": "Demande d'indemnité  journalière de maternité",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'indemnité  journalière de maternité"
+  },
+  {
+    "query": "Demande des prestations familiales",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande des prestations familiales"
+  },
+  {
+    "query": "Demande équivalence de diplôme",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande équivalence de diplôme"
+  },
+  {
+    "query": "Position hors cadre",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Position hors cadre"
+  },
+  {
+    "query": "Demande de prime  à la naissance",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande de prime  à la naissance"
+  },
+  {
+    "query": "Demande d'immatriculation  d'un employé",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'immatriculation  d'un employé"
+  },
+  {
+    "query": "Retraite Anticipée",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Retraite Anticipée"
+  },
+  {
+    "query": "Déclaration  trimestrielle  de cotisations",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Déclaration  trimestrielle  de cotisations"
+  },
+  {
+    "query": "Disponibilité",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Disponibilité"
+  },
+  {
+    "query": "Réclamation des assurés",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Réclamation des assurés"
+  },
+  {
+    "query": "Procédures de règlement des conflits du travail",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Procédures de règlement des conflits du travail"
+  },
+  {
+    "query": "Demande d'Attestation  de domiciliation",
+    "gold_doc": "Ministère de la Fonction Publique et du Travail__Demande d'Attestation  de domiciliation"
+  },
+  {
+    "query": "Demande de duplicata du livret professionnel",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande de duplicata du livret professionnel"
+  },
+  {
+    "query": "Licence de pêche côtière (nationale)",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Licence de pêche côtière (nationale)"
+  },
+  {
+    "query": "Licence de pêche côtière (affrètement)",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Licence de pêche côtière (affrètement)"
+  },
+  {
+    "query": "Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union Européenne. Étape 1 : Autorisation pour l’implantation",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union Européenne. Étape 1 _ Autorisation pour l’implantation"
+  },
+  {
+    "query": "Agrément des sociétés de consignation",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Agrément des sociétés de consignation"
+  },
+  {
+    "query": "Demande  d’obtention de la carte professionnelle de mareyeur",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande  d’obtention de la carte professionnelle de mareyeur"
+  },
+  {
+    "query": "Établissement de l’Autorisation de Pêche (Autorisation d’acquisition)",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Établissement de l’Autorisation de Pêche (Autorisation d’acquisition)"
+  },
+  {
+    "query": "Attribution d'occupation du domaine publique maritime à titre temporaire",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Attribution d'occupation du domaine publique maritime à titre temporaire"
+  },
+  {
+    "query": "َAutorisation d'Aquaculture Continentale",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__َAutorisation d'Aquaculture Continentale"
+  },
+  {
+    "query": "Licence de pêche hauturière",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Licence de pêche hauturière"
+  },
+  {
+    "query": "Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union européenne (usine). Étape 3 : Agrément sanitaire pour l’exportation vers l’U.E",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union européenne (usine). Étape 3 _ Agrément sanitaire pour "
+  },
+  {
+    "query": "attirubtion de Qouta de peche",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__attirubtion de Qouta de peche"
+  },
+  {
+    "query": "Demande d’autorisation de pêche continentale",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’autorisation de pêche continentale"
+  },
+  {
+    "query": "Demande de la carte de stage",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande de la carte de stage"
+  },
+  {
+    "query": "Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union européenne (usine). Étape 2 : Approbation des plans de masse de l’usine",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’obtention d’un agrément sanitaire pour l’exportation vers les pays membres de l’Union européenne (usine). Étape 2 _ Approbation des plans de"
+  },
+  {
+    "query": "Agrément de Chantier Naval",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Agrément de Chantier Naval"
+  },
+  {
+    "query": "Demande de dérogation des marins étrangers",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande de dérogation des marins étrangers"
+  },
+  {
+    "query": "Demande d'obtention de la carte professionnelle des Apprentis pécheurs",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d'obtention de la carte professionnelle des Apprentis pécheurs"
+  },
+  {
+    "query": "Certificat de perte du livret maritime",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Certificat de perte du livret maritime"
+  },
+  {
+    "query": "Demande de formation des pêcheurs",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande de formation des pêcheurs"
+  },
+  {
+    "query": "Recensement d’une embarcation de pêche artisanale",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Recensement d’une embarcation de pêche artisanale"
+  },
+  {
+    "query": "Demande d’appui",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’appui"
+  },
+  {
+    "query": "Établissement de l’Autorisation de Pêche (Autorisation de l’affrètement)",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Établissement de l’Autorisation de Pêche (Autorisation de l’affrètement)"
+  },
+  {
+    "query": "Licence de pêche artisanale",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Licence de pêche artisanale"
+  },
+  {
+    "query": "Licence libre pélagique",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Licence libre pélagique"
+  },
+  {
+    "query": "Demande d’établissement du livret professionnel maritime",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Demande d’établissement du livret professionnel maritime"
+  },
+  {
+    "query": "Immatriculation d’une embarcation de pêche artisanale",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Immatriculation d’une embarcation de pêche artisanale"
+  },
+  {
+    "query": "Établissement de l’Autorisation de Pêche (Autorisation de Licence Libre)",
+    "gold_doc": "Ministère de la Pêche, des Infrastructures Maritimes et Portuaires__Établissement de l’Autorisation de Pêche (Autorisation de Licence Libre)"
+  },
+  {
+    "query": "Traitement des conflits conjugaux (le conjoint accusé réside à l’étranger)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Traitement des conflits conjugaux (le conjoint accusé réside à l’étranger)"
+  },
+  {
+    "query": "Bourses d'encouragement",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Bourses d'encouragement"
+  },
+  {
+    "query": "Assistance sociale",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Assistance sociale"
+  },
+  {
+    "query": "Assurance maladie des personnes  atteintes d’insuffisance rénale chronique",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Assurance maladie des personnes  atteintes d’insuffisance rénale chronique"
+  },
+  {
+    "query": "Femmes chefs ménages",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Femmes chefs ménages"
+  },
+  {
+    "query": "Concours d'entrée en Formateur principal Petite Enfance",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur principal Petite Enfance"
+  },
+  {
+    "query": "Concours d'entrée en Médiation sociale",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Médiation sociale"
+  },
+  {
+    "query": "Dossier d'un enfant sans soutien familiale",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Dossier d'un enfant sans soutien familiale"
+  },
+  {
+    "query": "Transfert monétaire ( Les personnes atteintes de maladies chroniques, Patients oncologiques non assurés)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Transfert monétaire ( Les personnes atteintes de maladies chroniques, Patients oncologiques non assurés)"
+  },
+  {
+    "query": "Concours d'entrée en Conseiller en action sociale",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Conseiller en action sociale"
+  },
+  {
+    "query": "La prise en charge des malades indigents au niveau des hôpitaux nationaux",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__La prise en charge des malades indigents au niveau des hôpitaux nationaux"
+  },
+  {
+    "query": "Plateformes multifonctionnelles",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Plateformes multifonctionnelles"
+  },
+  {
+    "query": "Transferts monétaires aux familles des enfants polyhandicapés",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Transferts monétaires aux familles des enfants polyhandicapés"
+  },
+  {
+    "query": "La formation initiale dure deux ans et le bénéficiaire reçoit un certificat CAP-BT.",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__La formation initiale dure deux ans et le bénéficiaire reçoit un certificat CAP-BT."
+  },
+  {
+    "query": "Bus",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Bus"
+  },
+  {
+    "query": "L’entrepreneuriat féminin",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__L’entrepreneuriat féminin"
+  },
+  {
+    "query": "Concours d'entrée en Formateur en autisme et déficience intellectuelle",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur en autisme et déficience intellectuelle"
+  },
+  {
+    "query": "Financement des coopératives de femmes",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Financement des coopératives de femmes"
+  },
+  {
+    "query": "Transfert monétaire ( Victimes de catastrophes (incendies, noyades,,,)  )",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Transfert monétaire ( Victimes de catastrophes (incendies, noyades,,,)  )"
+  },
+  {
+    "query": "Ouverture d'un Jardin d'Enfants",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Ouverture d'un Jardin d'Enfants"
+  },
+  {
+    "query": "Coopératives de femmes",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Coopératives de femmes"
+  },
+  {
+    "query": "Les Orphelins",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Les Orphelins"
+  },
+  {
+    "query": "Transfert monétaire ( Cas de naissances gémellaires multiples )",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Transfert monétaire ( Cas de naissances gémellaires multiples )"
+  },
+  {
+    "query": "Aide Techniques (fauteuils roulant, béquilles, cannes blanches)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Aide Techniques (fauteuils roulant, béquilles, cannes blanches)"
+  },
+  {
+    "query": "Des formations de 15 jours à 3 mois dont les bénéficiaires reçoivent un certificat",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Des formations de 15 jours à 3 mois dont les bénéficiaires reçoivent un certificat"
+  },
+  {
+    "query": "Carte de personne handicapée",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Carte de personne handicapée"
+  },
+  {
+    "query": "Concours d'entrée en Contrôleur de   jardins d’enfants",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Contrôleur de   jardins d’enfants"
+  },
+  {
+    "query": "Concours d'entrée en  Formateur d’écriture Braille",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en  Formateur d’écriture Braille"
+  },
+  {
+    "query": "Transfert monétaire ( Patients d'insuffisance rénale non assurés )",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Transfert monétaire ( Patients d'insuffisance rénale non assurés )"
+  },
+  {
+    "query": "Concours d'entrée en Monitrice de  jardins  d’enfants",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Monitrice de  jardins  d’enfants"
+  },
+  {
+    "query": "Traitement des conflits conjugaux (cas de plainte où le mari est militaire)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Traitement des conflits conjugaux (cas de plainte où le mari est militaire)"
+  },
+  {
+    "query": "La prise en charge des malades indigents évacués à l’étranger",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__La prise en charge des malades indigents évacués à l’étranger"
+  },
+  {
+    "query": "Plainte (conflits conjugaux)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Plainte (conflits conjugaux)"
+  },
+  {
+    "query": "Concours d'entrée en Formateur adjoint d’écriture Braille",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur adjoint d’écriture Braille"
+  },
+  {
+    "query": "Visite du centre de nutrition communautaire de proximité au niveau de la localité ou de la commune.",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Visite du centre de nutrition communautaire de proximité au niveau de la localité ou de la commune."
+  },
+  {
+    "query": "Agrément de coopérative",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Agrément de coopérative"
+  },
+  {
+    "query": "Traitement des conflits conjugaux (cas de plainte où le conjoint accusé réside dans l'une des wilayas de l'intérieur)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Traitement des conflits conjugaux (cas de plainte où le conjoint accusé réside dans l'une des wilayas de l'intérieur)"
+  },
+  {
+    "query": "Activités génératrices de revenus",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Activités génératrices de revenus"
+  },
+  {
+    "query": "Demande de prêt",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Demande de prêt"
+  },
+  {
+    "query": "Concours d'entrée en Formateur adjoint en langue des signes",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur adjoint en langue des signes"
+  },
+  {
+    "query": "Concours d'entrée en Formateur en Entreprenariat et Microfinance",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur en Entreprenariat et Microfinance"
+  },
+  {
+    "query": "Consultations juridiques ou sociales",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Consultations juridiques ou sociales"
+  },
+  {
+    "query": "Dossier D'orphelin",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Dossier D'orphelin"
+  },
+  {
+    "query": "Concours d'entrée en Animateur social",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Animateur social"
+  },
+  {
+    "query": "Assurance maladie aux personnes en situation d’handicap",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Assurance maladie aux personnes en situation d’handicap"
+  },
+  {
+    "query": "Concours d'entrée en Formateur en langue des signes",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur en langue des signes"
+  },
+  {
+    "query": "Traitement des conflits conjugaux (époux ou épouse est résidant au pays)",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Traitement des conflits conjugaux (époux ou épouse est résidant au pays)"
+  },
+  {
+    "query": "Formation qualifiante de 9 mois dont les bénéficiaires reçoivent un certificat.",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Formation qualifiante de 9 mois dont les bénéficiaires reçoivent un certificat."
+  },
+  {
+    "query": "Concours d'entrée en Formateur adjoint en autisme et déficience intellectuelle",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur adjoint en autisme et déficience intellectuelle"
+  },
+  {
+    "query": "Concours d'entrée en Assistant en action sociale",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Assistant en action sociale"
+  },
+  {
+    "query": "Espaces sécurisés",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Espaces sécurisés"
+  },
+  {
+    "query": "Concours d'entrée en Formateur de promotion féminine",
+    "gold_doc": "Ministère de l’Action Sociale, de l’Enfance et de la Famille__Concours d'entrée en Formateur de promotion féminine"
+  },
+  {
+    "query": "Couveuse pour Prematuré (Service pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Couveuse pour Prematuré (Service pédiatrie)"
+  },
+  {
+    "query": "Remboursements Tiers payant ( Structures de Santé Conventionnées avec la CNAM )",
+    "gold_doc": "Ministère de la Santé__Remboursements Tiers payant ( Structures de Santé Conventionnées avec la CNAM )"
+  },
+  {
+    "query": "Consultation Pédiatrique en urgence",
+    "gold_doc": "Ministère de la Santé__Consultation Pédiatrique en urgence"
+  },
+  {
+    "query": "Prise en Charge des Indigents (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Prise en Charge des Indigents (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Enregistrement des indigents (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Enregistrement des indigents (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Demande de Dépistage et confirmation des maladies à potentiel épidémique (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de Dépistage et confirmation des maladies à potentiel épidémique (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Stage en laboratoire ( Institut National d’Hépato-Virologie (INHV))",
+    "gold_doc": "Ministère de la Santé__Stage en laboratoire ( Institut National d’Hépato-Virologie (INHV))"
+  },
+  {
+    "query": "Carte de Décès",
+    "gold_doc": "Ministère de la Santé__Carte de Décès"
+  },
+  {
+    "query": "Stage",
+    "gold_doc": "Ministère de la Santé__Stage"
+  },
+  {
+    "query": "prothèse dentaire (stomatologie)",
+    "gold_doc": "Ministère de la Santé__prothèse dentaire (stomatologie)"
+  },
+  {
+    "query": "Demande de faire une fibroscopie",
+    "gold_doc": "Ministère de la Santé__Demande de faire une fibroscopie"
+  },
+  {
+    "query": "Hospitalisation(Nephrologie)",
+    "gold_doc": "Ministère de la Santé__Hospitalisation(Nephrologie)"
+  },
+  {
+    "query": "Asthme (Département des maladies thoraciques)",
+    "gold_doc": "Ministère de la Santé__Asthme (Département des maladies thoraciques)"
+  },
+  {
+    "query": "Carte de Décès (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Carte de Décès (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Forfait Obstétrical (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Forfait Obstétrical (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Demande de faire une Rectoscopie",
+    "gold_doc": "Ministère de la Santé__Demande de faire une Rectoscopie"
+  },
+  {
+    "query": "Demande de Stage/Garde/Autorisation de Stage/Garde (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Demande de Stage_Garde_Autorisation de Stage_Garde (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Opération Neurochirurgicale ( Neurochirurgie)",
+    "gold_doc": "Ministère de la Santé__Opération Neurochirurgicale ( Neurochirurgie)"
+  },
+  {
+    "query": "Consultation de la documentation scientifique électronique (HINARI)(L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Consultation de la documentation scientifique électronique (HINARI)(L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Autorisation de réalisation d'un travail scientifique",
+    "gold_doc": "Ministère de la Santé__Autorisation de réalisation d'un travail scientifique"
+  },
+  {
+    "query": "Certificat de naissance",
+    "gold_doc": "Ministère de la Santé__Certificat de naissance"
+  },
+  {
+    "query": "Orthodontie (stomatologie)",
+    "gold_doc": "Ministère de la Santé__Orthodontie (stomatologie)"
+  },
+  {
+    "query": "Consultation obstétricale externe(Chirurgie)",
+    "gold_doc": "Ministère de la Santé__Consultation obstétricale externe(Chirurgie)"
+  },
+  {
+    "query": "Suivi du malade(Neurochirurgie)",
+    "gold_doc": "Ministère de la Santé__Suivi du malade(Neurochirurgie)"
+  },
+  {
+    "query": "Diagnostic (médecine interne)",
+    "gold_doc": "Ministère de la Santé__Diagnostic (médecine interne)"
+  },
+  {
+    "query": "Hospitalisation obstétrical ou gynécologique",
+    "gold_doc": "Ministère de la Santé__Hospitalisation obstétrical ou gynécologique"
+  },
+  {
+    "query": "Demande de Carnet de Vaccination Internationale (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de Carnet de Vaccination Internationale (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Accueil des patients Maternité",
+    "gold_doc": "Ministère de la Santé__Accueil des patients Maternité"
+  },
+  {
+    "query": "Demande d'analyses physico-chimiques et bactériologiques des eaux et aliments (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande d'analyses physico-chimiques et bactériologiques des eaux et aliments (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Consultations externes du soir",
+    "gold_doc": "Ministère de la Santé__Consultations externes du soir"
+  },
+  {
+    "query": "Demande d'Echographie",
+    "gold_doc": "Ministère de la Santé__Demande d'Echographie"
+  },
+  {
+    "query": "Hospitalisation dermatologique",
+    "gold_doc": "Ministère de la Santé__Hospitalisation dermatologique"
+  },
+  {
+    "query": "Demande de faire une ligature hémorroïde",
+    "gold_doc": "Ministère de la Santé__Demande de faire une ligature hémorroïde"
+  },
+  {
+    "query": "Formalités concernant le donneur (Centre national de transfusion sanguine(CNTS))",
+    "gold_doc": "Ministère de la Santé__Formalités concernant le donneur (Centre national de transfusion sanguine(CNTS))"
+  },
+  {
+    "query": "Consultation Pré anesthésie( Chirurgie Viscérale)",
+    "gold_doc": "Ministère de la Santé__Consultation Pré anesthésie( Chirurgie Viscérale)"
+  },
+  {
+    "query": "Consultations externes (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Consultations externes (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Réanimation et Néonatologie(Service de pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Réanimation et Néonatologie(Service de pédiatrie)"
+  },
+  {
+    "query": "Analyse des prélèvements tissulaire et cytologique(Service Anapath)",
+    "gold_doc": "Ministère de la Santé__Analyse des prélèvements tissulaire et cytologique(Service Anapath)"
+  },
+  {
+    "query": "Le coût forfaitaire de grossesse",
+    "gold_doc": "Ministère de la Santé__Le coût forfaitaire de grossesse"
+  },
+  {
+    "query": "Hospitalisation",
+    "gold_doc": "Ministère de la Santé__Hospitalisation"
+  },
+  {
+    "query": "Demande de Stage/Garde/Autorisation de Stage/Garde(Hospital Cheikh Zayed)",
+    "gold_doc": "Ministère de la Santé__Demande de Stage_Garde_Autorisation de Stage_Garde(Hospital Cheikh Zayed)"
+  },
+  {
+    "query": "Enfant abondonné (Service de pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Enfant abondonné (Service de pédiatrie)"
+  },
+  {
+    "query": "Demande d’intervention sur le pancréas et le foie",
+    "gold_doc": "Ministère de la Santé__Demande d’intervention sur le pancréas et le foie"
+  },
+  {
+    "query": "Demande de stage de pratique ou de recherche (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de stage de pratique ou de recherche (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Demande d’une polypectomie",
+    "gold_doc": "Ministère de la Santé__Demande d’une polypectomie"
+  },
+  {
+    "query": "Demande d’une radio panoramique",
+    "gold_doc": "Ministère de la Santé__Demande d’une radio panoramique"
+  },
+  {
+    "query": "Demander un rendez-vous de consultation",
+    "gold_doc": "Ministère de la Santé__Demander un rendez-vous de consultation"
+  },
+  {
+    "query": "Réquisition  en médecine",
+    "gold_doc": "Ministère de la Santé__Réquisition  en médecine"
+  },
+  {
+    "query": "Soin dentaire (stomatologie)",
+    "gold_doc": "Ministère de la Santé__Soin dentaire (stomatologie)"
+  },
+  {
+    "query": "Consultation d'urgence (Patient admis en urgence. Évacuation sanitaire commissariat de police et prison civile) (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Consultation d'urgence (Patient admis en urgence. Évacuation sanitaire commissariat de police et prison civile) (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Affiliation et Immatriculation des Salariés du Secteur Privé (Etape 2/2)",
+    "gold_doc": "Ministère de la Santé__Affiliation et Immatriculation des Salariés du Secteur Privé (Etape 2_2)"
+  },
+  {
+    "query": "Stage (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Stage (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Visite Dermatologie et Maladies Sexuellement Transmissibles",
+    "gold_doc": "Ministère de la Santé__Visite Dermatologie et Maladies Sexuellement Transmissibles"
+  },
+  {
+    "query": "Certificat d'Accouchement (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Certificat d'Accouchement (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Demande d’enlever un corps étranger",
+    "gold_doc": "Ministère de la Santé__Demande d’enlever un corps étranger"
+  },
+  {
+    "query": "Prise en charge des indigents Maternité",
+    "gold_doc": "Ministère de la Santé__Prise en charge des indigents Maternité"
+  },
+  {
+    "query": "Consultation gynécologique en urgence",
+    "gold_doc": "Ministère de la Santé__Consultation gynécologique en urgence"
+  },
+  {
+    "query": "préparation du dossier d'évacuation (médecine interne)",
+    "gold_doc": "Ministère de la Santé__préparation du dossier d'évacuation (médecine interne)"
+  },
+  {
+    "query": "Consultation externe Maternite",
+    "gold_doc": "Ministère de la Santé__Consultation externe Maternite"
+  },
+  {
+    "query": "Demander un rendez-vous de consultation au Centre National de Cardiologie(CNC)",
+    "gold_doc": "Ministère de la Santé__Demander un rendez-vous de consultation au Centre National de Cardiologie(CNC)"
+  },
+  {
+    "query": "Demande de dépistage volontaire et gratuit (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de dépistage volontaire et gratuit (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Prise en Charge des Indigents",
+    "gold_doc": "Ministère de la Santé__Prise en Charge des Indigents"
+  },
+  {
+    "query": "Prise en charge des malades évacués de Nouakchott et de l'intérieur du pays",
+    "gold_doc": "Ministère de la Santé__Prise en charge des malades évacués de Nouakchott et de l'intérieur du pays"
+  },
+  {
+    "query": "Demande de radio -Scanner-Échographie( Hospital Cheikh Zayed)",
+    "gold_doc": "Ministère de la Santé__Demande de radio -Scanner-Échographie( Hospital Cheikh Zayed)"
+  },
+  {
+    "query": "Demande de faire une ponction biopsie hépatique",
+    "gold_doc": "Ministère de la Santé__Demande de faire une ponction biopsie hépatique"
+  },
+  {
+    "query": "Dyspnée (Département des maladies thoraciques)",
+    "gold_doc": "Ministère de la Santé__Dyspnée (Département des maladies thoraciques)"
+  },
+  {
+    "query": "Demande de Radio",
+    "gold_doc": "Ministère de la Santé__Demande de Radio"
+  },
+  {
+    "query": "Certificat d'Accouchement",
+    "gold_doc": "Ministère de la Santé__Certificat d'Accouchement"
+  },
+  {
+    "query": "Demande d'Analyses du Laboratoire",
+    "gold_doc": "Ministère de la Santé__Demande d'Analyses du Laboratoire"
+  },
+  {
+    "query": "Procédures de vente des produits pharmaceutiques et  consommables",
+    "gold_doc": "Ministère de la Santé__Procédures de vente des produits pharmaceutiques et  consommables"
+  },
+  {
+    "query": "Demande de Radio- scanner-Imagerie (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Demande de Radio- scanner-Imagerie (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Procédure de gestion des prestations (prise en charge des assurés) à la CNASS",
+    "gold_doc": "Ministère de la Santé__Procédure de gestion des prestations (prise en charge des assurés) à la CNASS"
+  },
+  {
+    "query": "Demande de faire une Coloscopie",
+    "gold_doc": "Ministère de la Santé__Demande de faire une Coloscopie"
+  },
+  {
+    "query": "Demande de retrait d'acte de décès du Centre National de Cardiologie",
+    "gold_doc": "Ministère de la Santé__Demande de retrait d'acte de décès du Centre National de Cardiologie"
+  },
+  {
+    "query": "Demande d'accréditation et de conventionnement à la CNASS",
+    "gold_doc": "Ministère de la Santé__Demande d'accréditation et de conventionnement à la CNASS"
+  },
+  {
+    "query": "Demande d'analyses biologiques (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande d'analyses biologiques (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Réclamation",
+    "gold_doc": "Ministère de la Santé__Réclamation"
+  },
+  {
+    "query": "Procédure d'adhésion à la CNASS",
+    "gold_doc": "Ministère de la Santé__Procédure d'adhésion à la CNASS"
+  },
+  {
+    "query": "Compte rendu de réquisition",
+    "gold_doc": "Ministère de la Santé__Compte rendu de réquisition"
+  },
+  {
+    "query": "Nutrition Pédiatrie(Service de pediatrie)",
+    "gold_doc": "Ministère de la Santé__Nutrition Pédiatrie(Service de pediatrie)"
+  },
+  {
+    "query": "Consultation (stomatologie)",
+    "gold_doc": "Ministère de la Santé__Consultation (stomatologie)"
+  },
+  {
+    "query": "Demander une visite au Centre National de Cardiologie",
+    "gold_doc": "Ministère de la Santé__Demander une visite au Centre National de Cardiologie"
+  },
+  {
+    "query": "Réclamation (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Réclamation (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Affiliation et Immatriculation des Employeurs / Sociétés du Secteur Privé (Etape 1/2)",
+    "gold_doc": "Ministère de la Santé__Affiliation et Immatriculation des Employeurs _ Sociétés du Secteur Privé (Etape 1_2)"
+  },
+  {
+    "query": "Remboursements Ambulatoire ( des Assurés de la CNAM )",
+    "gold_doc": "Ministère de la Santé__Remboursements Ambulatoire ( des Assurés de la CNAM )"
+  },
+  {
+    "query": "Certificat  de Decés (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Certificat  de Decés (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Demande de Vaccination antirabique (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de Vaccination antirabique (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Accueil des patients( Chirurgie Viscérale)",
+    "gold_doc": "Ministère de la Santé__Accueil des patients( Chirurgie Viscérale)"
+  },
+  {
+    "query": "Hospitalisation Actes chirurgicaux (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Hospitalisation Actes chirurgicaux (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Filtration rénale( Néphrologie)",
+    "gold_doc": "Ministère de la Santé__Filtration rénale( Néphrologie)"
+  },
+  {
+    "query": "Demande de faire une recto-sigmoidoscopie",
+    "gold_doc": "Ministère de la Santé__Demande de faire une recto-sigmoidoscopie"
+  },
+  {
+    "query": "Formalité administrative concernant le bénéficiaire de la prestation (Centre national de transfusion sanguine(CNTS))",
+    "gold_doc": "Ministère de la Santé__Formalité administrative concernant le bénéficiaire de la prestation (Centre national de transfusion sanguine(CNTS))"
+  },
+  {
+    "query": "Demande de faire une Dilatation œsophagienne",
+    "gold_doc": "Ministère de la Santé__Demande de faire une Dilatation œsophagienne"
+  },
+  {
+    "query": "Demande d’une ligature varus œsophagienne",
+    "gold_doc": "Ministère de la Santé__Demande d’une ligature varus œsophagienne"
+  },
+  {
+    "query": "Radiologie (stomatologie)",
+    "gold_doc": "Ministère de la Santé__Radiologie (stomatologie)"
+  },
+  {
+    "query": "Constat de décès",
+    "gold_doc": "Ministère de la Santé__Constat de décès"
+  },
+  {
+    "query": "Consultations Externes",
+    "gold_doc": "Ministère de la Santé__Consultations Externes"
+  },
+  {
+    "query": "Demander un rendez-vous pour des examens externes au Centre National de Cardiologie",
+    "gold_doc": "Ministère de la Santé__Demander un rendez-vous pour des examens externes au Centre National de Cardiologie"
+  },
+  {
+    "query": "Programmation du malade{ Chirurgie Viscéral)",
+    "gold_doc": "Ministère de la Santé__Programmation du malade{ Chirurgie Viscéral)"
+  },
+  {
+    "query": "Évacuation sanitaire à l'Étranger (Conseil National de Santé(CNS))",
+    "gold_doc": "Ministère de la Santé__Évacuation sanitaire à l'Étranger (Conseil National de Santé(CNS))"
+  },
+  {
+    "query": "Formalités concernant la préparation des PSL en cas d’urgence (Centre national de transfusion sanguine(CNTS))",
+    "gold_doc": "Ministère de la Santé__Formalités concernant la préparation des PSL en cas d’urgence (Centre national de transfusion sanguine(CNTS))"
+  },
+  {
+    "query": "Acte d'intervention (médecine interne)",
+    "gold_doc": "Ministère de la Santé__Acte d'intervention (médecine interne)"
+  },
+  {
+    "query": "Forfait Obstétrical",
+    "gold_doc": "Ministère de la Santé__Forfait Obstétrical"
+  },
+  {
+    "query": "Formalités concernant les examens de laboratoire (donneurs)(Centre national de transfusion sanguine(CNTS))",
+    "gold_doc": "Ministère de la Santé__Formalités concernant les examens de laboratoire (donneurs)(Centre national de transfusion sanguine(CNTS))"
+  },
+  {
+    "query": "Suivi externe",
+    "gold_doc": "Ministère de la Santé__Suivi externe"
+  },
+  {
+    "query": "Consultation Néphrologie",
+    "gold_doc": "Ministère de la Santé__Consultation Néphrologie"
+  },
+  {
+    "query": "Demande de Dépistage et confirmation du VIH/SIDA (L’Institut National de Recherches en Santé Publique(INRSP))",
+    "gold_doc": "Ministère de la Santé__Demande de Dépistage et confirmation du VIH_SIDA (L’Institut National de Recherches en Santé Publique(INRSP))"
+  },
+  {
+    "query": "Obtention d'un certificat d'accouchement",
+    "gold_doc": "Ministère de la Santé__Obtention d'un certificat d'accouchement"
+  },
+  {
+    "query": "Infections pulmonaires (Département des maladies thoraciques)",
+    "gold_doc": "Ministère de la Santé__Infections pulmonaires (Département des maladies thoraciques)"
+  },
+  {
+    "query": "Hospitalisation (médecine interne)",
+    "gold_doc": "Ministère de la Santé__Hospitalisation (médecine interne)"
+  },
+  {
+    "query": "Maladies graves  avec engagement de pronostique vitale (Service de Réanimation)",
+    "gold_doc": "Ministère de la Santé__Maladies graves  avec engagement de pronostique vitale (Service de Réanimation)"
+  },
+  {
+    "query": "Consultation neurochirurgicale( Neurochirurgie)",
+    "gold_doc": "Ministère de la Santé__Consultation neurochirurgicale( Neurochirurgie)"
+  },
+  {
+    "query": "Demande d'Analyses du Laboratoire (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Demande d'Analyses du Laboratoire (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Tuberculose pulmonaire (Département des maladies thoraciques)",
+    "gold_doc": "Ministère de la Santé__Tuberculose pulmonaire (Département des maladies thoraciques)"
+  },
+  {
+    "query": "chirurgie (stomatologie)",
+    "gold_doc": "Ministère de la Santé__chirurgie (stomatologie)"
+  },
+  {
+    "query": "Formalités concernant la demande de sang (Centre national de transfusion sanguine(CNTS))",
+    "gold_doc": "Ministère de la Santé__Formalités concernant la demande de sang (Centre national de transfusion sanguine(CNTS))"
+  },
+  {
+    "query": "Consultation gastro externe ( Institut National d’Hépato-Virologie (INHV))",
+    "gold_doc": "Ministère de la Santé__Consultation gastro externe ( Institut National d’Hépato-Virologie (INHV))"
+  },
+  {
+    "query": "Césarienne (urgence et prophylactique)",
+    "gold_doc": "Ministère de la Santé__Césarienne (urgence et prophylactique)"
+  },
+  {
+    "query": "Consultation en Urgence (service de Pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Consultation en Urgence (service de Pédiatrie)"
+  },
+  {
+    "query": "Hospitalisation (Service de Pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Hospitalisation (Service de Pédiatrie)"
+  },
+  {
+    "query": "Certificat de Décès",
+    "gold_doc": "Ministère de la Santé__Certificat de Décès"
+  },
+  {
+    "query": "Extrait de naissance (Le Centre Hospitalier National )",
+    "gold_doc": "Ministère de la Santé__Extrait de naissance (Le Centre Hospitalier National )"
+  },
+  {
+    "query": "Dépistage Vaccination Orientation Institut National d’Hépato-Virologie (INHV)",
+    "gold_doc": "Ministère de la Santé__Dépistage Vaccination Orientation Institut National d’Hépato-Virologie (INHV)"
+  },
+  {
+    "query": "Accueil Réanimation( Service Pédiatrie)",
+    "gold_doc": "Ministère de la Santé__Accueil Réanimation( Service Pédiatrie)"
+  },
+  {
+    "query": "Consultation",
+    "gold_doc": "Ministère de la Santé__Consultation"
+  },
+  {
+    "query": "Indication d'anesthesie Maternite",
+    "gold_doc": "Ministère de la Santé__Indication d'anesthesie Maternite"
+  },
+  {
+    "query": "Consultation en urgence",
+    "gold_doc": "Ministère de la Santé__Consultation en urgence"
+  },
+  {
+    "query": "Demande de Scanner",
+    "gold_doc": "Ministère de la Santé__Demande de Scanner"
+  },
+  {
+    "query": "Accouchement",
+    "gold_doc": "Ministère de la Santé__Accouchement"
+  },
+  {
+    "query": "Demande de l' Echographie abdominale(gastrologue)",
+    "gold_doc": "Ministère de la Santé__Demande de l' Echographie abdominale(gastrologue)"
+  },
+  {
+    "query": "Affiliation et Immatriculation des Fonctionnaires et Salariés du Secteur Public",
+    "gold_doc": "Ministère de la Santé__Affiliation et Immatriculation des Fonctionnaires et Salariés du Secteur Public"
+  },
+  {
+    "query": "Réception des rapports intermédiaires des projet de Recherche pour  évaluation",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Réception des rapports intermédiaires des projet de Recherche pour  évaluation"
+  },
+  {
+    "query": "Transmission  des rapports intermédiaires des projets de recherche   à la DPEF",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Transmission  des rapports intermédiaires des projets de recherche   à la DPEF"
+  },
+  {
+    "query": "Transferts  d'étudiants d'un Ets. vers un autre",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Transferts  d'étudiants d'un Ets. vers un autre"
+  },
+  {
+    "query": "Bourse des lauréats de baccalauréat",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Bourse des lauréats de baccalauréat"
+  },
+  {
+    "query": "Attestation de fin d’études",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Attestation de fin d’études"
+  },
+  {
+    "query": "Demandes: de bourse, d’attestation de boursier,  d’attestation de non boursier,  d’inscription libre",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Demandes_ de bourse, d’attestation de boursier,  d’attestation de non boursier,  d’inscription libre"
+  },
+  {
+    "query": "Création de Laboratoire de recherche",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Création de Laboratoire de recherche"
+  },
+  {
+    "query": "Bourses des lauréats",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Bourses des lauréats"
+  },
+  {
+    "query": "Attestation de régularité vis-à-vis de l’administration du travail",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Attestation de régularité vis-à-vis de l’administration du travail"
+  },
+  {
+    "query": "Réorientation des filles",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Réorientation des filles"
+  },
+  {
+    "query": "Bourses à l'étranger",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Bourses à l'étranger"
+  },
+  {
+    "query": "Attestation de Bourse",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Attestation de Bourse"
+  },
+  {
+    "query": "Orienter les lauréats du baccalauréat de l'année en cours",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Orienter les lauréats du baccalauréat de l'année en cours"
+  },
+  {
+    "query": "Création des unités de recherche",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Création des unités de recherche"
+  },
+  {
+    "query": "Demande de billet",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Demande de billet"
+  },
+  {
+    "query": "Quota officiel de sièges dans l’enseignement supérieur en Tunisie, au Maroc et en Algérie",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Quota officiel de sièges dans l’enseignement supérieur en Tunisie, au Maroc et en Algérie"
+  },
+  {
+    "query": "Acréditation des nouvelles filières",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Acréditation des nouvelles filières"
+  },
+  {
+    "query": "Attestation de non boursier",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Attestation de non boursier"
+  },
+  {
+    "query": "Frais du mémoire de fin d'études",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Frais du mémoire de fin d'études"
+  },
+  {
+    "query": "Candidatures pour les projets de recherche",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Candidatures pour les projets de recherche"
+  },
+  {
+    "query": "Rapports d'Evaluation",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Rapports d'Evaluation"
+  },
+  {
+    "query": "Demande de délivrance de passeport",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Demande de délivrance de passeport"
+  },
+  {
+    "query": "Candidatures aux bourses d'excellence",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Candidatures aux bourses d'excellence"
+  },
+  {
+    "query": "Création d'établissement de l'Enseignement Supérieur privé",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Création d'établissement de l'Enseignement Supérieur privé"
+  },
+  {
+    "query": "Légalisation des diplômes",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Légalisation des diplômes"
+  },
+  {
+    "query": "Réorientation des admis du baccalauréat et qui n'ont jamais bénéficié d'une orientation auparavant",
+    "gold_doc": "Ministère de l’Enseignement Supérieur et de la Recherche Scientifique__Réorientation des admis du baccalauréat et qui n'ont jamais bénéficié d'une orientation auparavant"
+  },
+  {
+    "query": "Accès à l'électrification",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Accès à l'électrification"
+  },
+  {
+    "query": "Programme d’Accès aux services de base  « Cheyla »",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Programme d’Accès aux services de base  « Cheyla »"
+  },
+  {
+    "query": "Construction d'une infrastructure scolaire",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Construction d'une infrastructure scolaire"
+  },
+  {
+    "query": "Construction d'une infrastructure sanitaire",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Construction d'une infrastructure sanitaire"
+  },
+  {
+    "query": "Accès à l'eau",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Accès à l'eau"
+  },
+  {
+    "query": "Accès à l'assurance maladie",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__Accès à l'assurance maladie"
+  },
+  {
+    "query": "PROCEDURE DU PROGRAMME NATIONAL DE FINANCEMENT DES ACTIVITES PRODUCTIVES 2023-2024",
+    "gold_doc": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l’Exclusion (TAAZOUR)__PROCEDURE DU PROGRAMME NATIONAL DE FINANCEMENT DES ACTIVITES PRODUCTIVES 2023-2024"
+  },
+  {
+    "query": "Correction de Nom du Proporiétaire",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Correction de Nom du Proporiétaire"
+  },
+  {
+    "query": "Main Levée sur un Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Main Levée sur un Titre Foncier"
+  },
+  {
+    "query": "Correction de Superficie d'un Terrain",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Correction de Superficie d'un Terrain"
+  },
+  {
+    "query": "Procédure d'immatriculation",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Procédure d'immatriculation"
+  },
+  {
+    "query": "Mutation de Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Mutation de Titre Foncier"
+  },
+  {
+    "query": "Permis d'Occuper",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Permis d'Occuper"
+  },
+  {
+    "query": "Duplicata du Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Duplicata du Titre Foncier"
+  },
+  {
+    "query": "Fusion de Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Fusion de Titre Foncier"
+  },
+  {
+    "query": "Morcellement d'un Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Morcellement d'un Titre Foncier"
+  },
+  {
+    "query": "Duplicata de Permis d'Occuper et de lettre d'attribution",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Duplicata de Permis d'Occuper et de lettre d'attribution"
+  },
+  {
+    "query": "Renseignements sur un Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Renseignements sur un Titre Foncier"
+  },
+  {
+    "query": "Mutation de Permis d'Occuper",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Mutation de Permis d'Occuper"
+  },
+  {
+    "query": "Traitement des dossiers zone industrielle",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Traitement des dossiers zone industrielle"
+  },
+  {
+    "query": "Hypothèques d'un Titre Foncier",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Hypothèques d'un Titre Foncier"
+  },
+  {
+    "query": "Cession définitive de terrain",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Cession définitive de terrain"
+  },
+  {
+    "query": "Création d'un Titre Foncier (après arrêté de cession définitive)",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Création d'un Titre Foncier (après arrêté de cession définitive)"
+  },
+  {
+    "query": "Traitement des demandes de terrains résidentiels",
+    "gold_doc": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière__Traitement des demandes de terrains résidentiels"
+  },
+  {
+    "query": "Demande d'accès à la documentation",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Demande d'accès à la documentation"
+  },
+  {
+    "query": "Etude d'Impact Environnement et Social",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Etude d'Impact Environnement et Social"
+  },
+  {
+    "query": "Ecotourisme - Parc National Diawling",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Ecotourisme - Parc National Diawling"
+  },
+  {
+    "query": "Etude d'Impact Environnemental (EIE) -avis de faisabilité environnementale",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Etude d'Impact Environnemental (EIE) -avis de faisabilité environnementale"
+  },
+  {
+    "query": "Recherche scientifique",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Recherche scientifique"
+  },
+  {
+    "query": "Importation/ Exportation/Enlèvement/ Transport/Usage des produits chimiques et Substances dangereuses",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Importation_ Exportation_Enlèvement_ Transport_Usage des produits chimiques et Substances dangereuses"
+  },
+  {
+    "query": "Notice d'Impact Environnemental (NIE)-avis de faisabilité environnementale",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Notice d'Impact Environnemental (NIE)-avis de faisabilité environnementale"
+  },
+  {
+    "query": "Notice d'Impact Environnemental et Social",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Notice d'Impact Environnemental et Social"
+  },
+  {
+    "query": "Accès aux Services des Ecosystèmes",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Accès aux Services des Ecosystèmes"
+  },
+  {
+    "query": "Importation des GAZ de refroidissement",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Importation des GAZ de refroidissement"
+  },
+  {
+    "query": "Permis de coupe",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Permis de coupe"
+  },
+  {
+    "query": "Consultation de la base des données et -SIG",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Consultation de la base des données et -SIG"
+  },
+  {
+    "query": "Excursion pédagogique",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Excursion pédagogique"
+  },
+  {
+    "query": "Demande d’autorisation de défrichement",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Demande d’autorisation de défrichement"
+  },
+  {
+    "query": "Demande de défrichement pour mise en valeur agricole",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Demande de défrichement pour mise en valeur agricole"
+  },
+  {
+    "query": "Visite touristique",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Visite touristique"
+  },
+  {
+    "query": "Permis de chasse Sportive",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Permis de chasse Sportive"
+  },
+  {
+    "query": "Demande de stage",
+    "gold_doc": "Ministère de l'Environnement  et du développement durable__Demande de stage"
+  },
+  {
+    "query": "Demande de Diplôme",
+    "gold_doc": "Ministère de la Formation Professionnelle, de l’Artisanat et des Métiers__Demande de Diplôme"
+  },
+  {
+    "query": "Autorisation d'Exercice de l'Activité Artisanale",
+    "gold_doc": "Ministère de la Formation Professionnelle, de l’Artisanat et des Métiers__Autorisation d'Exercice de l'Activité Artisanale"
+  },
+  {
+    "query": "Légalisation des Diplômes et Attestations",
+    "gold_doc": "Ministère de la Formation Professionnelle, de l’Artisanat et des Métiers__Légalisation des Diplômes et Attestations"
+  },
+  {
+    "query": "Agrément d'une Coopérative Artisanale",
+    "gold_doc": "Ministère de la Formation Professionnelle, de l’Artisanat et des Métiers__Agrément d'une Coopérative Artisanale"
+  },
+  {
+    "query": "Autorisation d'Enfûtage de Gaz Butane",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Enfûtage de Gaz Butane"
+  },
+  {
+    "query": "Autorisation d'Exportation des Produits Pétroliers",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Exportation des Produits Pétroliers"
+  },
+  {
+    "query": "Autorisation de Stockage d'Hydrocarbures Raffinés",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Stockage d'Hydrocarbures Raffinés"
+  },
+  {
+    "query": "Autorisation de Distribution et de Commercialisation d'Hydrocarbures Raffinés autre que le Gaz Butane",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Distribution et de Commercialisation d'Hydrocarbures Raffinés autre que le Gaz Butane"
+  },
+  {
+    "query": "Autorisation d'Importation des Hydrocarbures Liquides",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Importation des Hydrocarbures Liquides"
+  },
+  {
+    "query": "Permis d’exploitation pétrolière",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Permis d’exploitation pétrolière"
+  },
+  {
+    "query": "Autorisation de Transport d'Hydrocarbures Raffinés",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Transport d'Hydrocarbures Raffinés"
+  },
+  {
+    "query": "Autorisation de Distribution et Commercialisation du Gaz Butane",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Distribution et Commercialisation du Gaz Butane"
+  },
+  {
+    "query": "Autorisation de Raffinage des Produits Pétroliers",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Raffinage des Produits Pétroliers"
+  },
+  {
+    "query": "Sélection et gestion de la base fournisseurs",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Sélection et gestion de la base fournisseurs"
+  },
+  {
+    "query": "Autorisation d'Ouverture et d'Exploitation d'un Etablissement classé (1ère et 2ème Classe )",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Ouverture et d'Exploitation d'un Etablissement classé (1ère et 2ème Classe )"
+  },
+  {
+    "query": "Autorisation de Reprise en Raffinerie des Produits Pétroliers",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Reprise en Raffinerie des Produits Pétroliers"
+  },
+  {
+    "query": "Autorisation d'Ouverture et d'Exploitation d'un Etablissement classé (3ème Classe )",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Ouverture et d'Exploitation d'un Etablissement classé (3ème Classe )"
+  },
+  {
+    "query": "Autorisation de Reconnaissance",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation de Reconnaissance"
+  },
+  {
+    "query": "Autorisation d'Importation du Gaz Butane",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Autorisation d'Importation du Gaz Butane"
+  },
+  {
+    "query": "Permis de recherche pétrolière",
+    "gold_doc": "Ministère de l'Énergie et du Pétrole__Permis de recherche pétrolière"
+  },
+  {
+    "query": "Retrait et Restitution de Permis de conduire",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Retrait et Restitution de Permis de conduire"
+  },
+  {
+    "query": "Carte grise (Pour les véhicules d’occasion précédemment immatriculé à l’Etranger)",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Carte grise (Pour les véhicules d’occasion précédemment immatriculé à l’Etranger)"
+  },
+  {
+    "query": "Récupération de l'abonnement au cas de perte",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Récupération de l'abonnement au cas de perte"
+  },
+  {
+    "query": "Autorisation de Transport des Matieres Dangereuses",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Autorisation de Transport des Matieres Dangereuses"
+  },
+  {
+    "query": "Renouvèlement d'abonnement",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Renouvèlement d'abonnement"
+  },
+  {
+    "query": "Carte grise (Pour les véhicules reformés)",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Carte grise (Pour les véhicules reformés)"
+  },
+  {
+    "query": "Mutation de carte grise",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Mutation de carte grise"
+  },
+  {
+    "query": "Transformation Permis Militaire en Permis Civil",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Transformation Permis Militaire en Permis Civil"
+  },
+  {
+    "query": "Authenticité de Permis de Conduire",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Authenticité de Permis de Conduire"
+  },
+  {
+    "query": "Duplicata carte grise",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Duplicata carte grise"
+  },
+  {
+    "query": "Autorisation de transport de personnes ou marchandises",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Autorisation de transport de personnes ou marchandises"
+  },
+  {
+    "query": "Renouvellement de permis de conduire",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Renouvellement de permis de conduire"
+  },
+  {
+    "query": "Location des bus et des espaces publicitaires",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Location des bus et des espaces publicitaires"
+  },
+  {
+    "query": "Abonnements pour les étudiants",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Abonnements pour les étudiants"
+  },
+  {
+    "query": "Duplicata de permis de conduire",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Duplicata de permis de conduire"
+  },
+  {
+    "query": "Carte grise (Pour les Immatriculations des véhicules neufs)",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Carte grise (Pour les Immatriculations des véhicules neufs)"
+  },
+  {
+    "query": "Permis de conduire",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Permis de conduire"
+  },
+  {
+    "query": "Transformation de Permis de Conduire Etranger",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Transformation de Permis de Conduire Etranger"
+  },
+  {
+    "query": "Renouvellement de carte grise",
+    "gold_doc": "Ministère de l’Équipement et des Transports__Renouvellement de carte grise"
+  },
+  {
+    "query": "Octroi de Prêts",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Octroi de Prêts"
+  },
+  {
+    "query": "Ouverture de compte d’épargne",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Ouverture de compte d’épargne"
+  },
+  {
+    "query": "Express mail service (EMS+)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Express mail service (EMS+)"
+  },
+  {
+    "query": "Envoi d'un mandat national",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Envoi d'un mandat national"
+  },
+  {
+    "query": "Ouverture de Comptes Courants Postaux  (CCP)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Ouverture de Comptes Courants Postaux  (CCP)"
+  },
+  {
+    "query": "Poste -Logistique (Envoi de colis lourds)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Poste -Logistique (Envoi de colis lourds)"
+  },
+  {
+    "query": "Envoi d'un colis postal",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Envoi d'un colis postal"
+  },
+  {
+    "query": "Affranchissement (vente de timbres)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Affranchissement (vente de timbres)"
+  },
+  {
+    "query": "Mandat postal (électronique)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Mandat postal (électronique)"
+  },
+  {
+    "query": "Abonnement à une Boite Postale",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Abonnement à une Boite Postale"
+  },
+  {
+    "query": "Baridcash (plateforme de paiement mobile)",
+    "gold_doc": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration__Baridcash (plateforme de paiement mobile)"
+  },
+  {
+    "query": "Classification d'un site historique",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Classification d'un site historique"
+  },
+  {
+    "query": "Dépôt légal d'ouvrage (livre)",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Dépôt légal d'ouvrage (livre)"
+  },
+  {
+    "query": "Couverture médiatique à l'intérieur",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Couverture médiatique à l'intérieur"
+  },
+  {
+    "query": "Couverture médiatique à Nouakchott",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Couverture médiatique à Nouakchott"
+  },
+  {
+    "query": "Impression",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Impression"
+  },
+  {
+    "query": "Reception engagement des prestataires de services de presse en ligne",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Reception engagement des prestataires de services de presse en ligne"
+  },
+  {
+    "query": "Autorisation de création d'un musée privé",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Autorisation de création d'un musée privé"
+  },
+  {
+    "query": "Autorisation d'un festival culturel",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Autorisation d'un festival culturel"
+  },
+  {
+    "query": "Autorisation d'export temporaire d'un bien culturel",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Autorisation d'export temporaire d'un bien culturel"
+  },
+  {
+    "query": "Autorisation de tournage",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Autorisation de tournage"
+  },
+  {
+    "query": "Accréditation de correspondants de médias étrangers",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Accréditation de correspondants de médias étrangers"
+  },
+  {
+    "query": "Accréditation de journalistes pour les activités officielles",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Accréditation de journalistes pour les activités officielles"
+  },
+  {
+    "query": "Authentification, entretien et numérisation des manuscrits",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Authentification, entretien et numérisation des manuscrits"
+  },
+  {
+    "query": "Diffusion d'un communiqué radiophonique",
+    "gold_doc": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement__Diffusion d'un communiqué radiophonique"
+  },
+  {
+    "query": "Agrément pour l'Exercice de la Profession de Guide de Tourisme",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Agrément pour l'Exercice de la Profession de Guide de Tourisme"
+  },
+  {
+    "query": "Agrément pour l'Exploitation d'un Etablissement de Restauration",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Agrément pour l'Exploitation d'un Etablissement de Restauration"
+  },
+  {
+    "query": "Autorisation d’Import/Export",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Autorisation d’Import_Export"
+  },
+  {
+    "query": "Demande de terrain pour la réalisation d'un projet touristique",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Demande de terrain pour la réalisation d'un projet touristique"
+  },
+  {
+    "query": "Certificat Positif ou Négatif d'Éxistence dans le Registre Central de Commerce",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Certificat Positif ou Négatif d'Éxistence dans le Registre Central de Commerce"
+  },
+  {
+    "query": "Certificat d'immatriculation au Registre Central de Commerce",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Certificat d'immatriculation au Registre Central de Commerce"
+  },
+  {
+    "query": "Licence pour l'Exploitation d'une Agence ou d'un Bureau de Voyages",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Licence pour l'Exploitation d'une Agence ou d'un Bureau de Voyages"
+  },
+  {
+    "query": "Agrément pour l'exploitation d'un établissement d'hébergement",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Agrément pour l'exploitation d'un établissement d'hébergement"
+  },
+  {
+    "query": "Déclaration et élimination des produits périmés",
+    "gold_doc": "Ministère du Commerce et du Tourisme__Déclaration et élimination des produits périmés"
+  },
+  {
+    "query": "Domiciliation de salaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Domiciliation de salaires"
+  },
+  {
+    "query": "Immatriculation des contribuables",
+    "gold_doc": "Ministère de l’Économie et des Finances__Immatriculation des contribuables"
+  },
+  {
+    "query": "Demande de remboursement des impôts",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de remboursement des impôts"
+  },
+  {
+    "query": "Bulletin de pension et Bon de Caisse pension",
+    "gold_doc": "Ministère de l’Économie et des Finances__Bulletin de pension et Bon de Caisse pension"
+  },
+  {
+    "query": "Stage pour universitaire",
+    "gold_doc": "Ministère de l’Économie et des Finances__Stage pour universitaire"
+  },
+  {
+    "query": "Demande de remboursement des droits et taxes douaniers",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de remboursement des droits et taxes douaniers"
+  },
+  {
+    "query": "Indemnités et avantages des Fonctionnaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Indemnités et avantages des Fonctionnaires"
+  },
+  {
+    "query": "Demande de Remboursement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de Remboursement"
+  },
+  {
+    "query": "Indemnités et avantages des fonctionnaires et auxiliaires retraités ou décédés",
+    "gold_doc": "Ministère de l’Économie et des Finances__Indemnités et avantages des fonctionnaires et auxiliaires retraités ou décédés"
+  },
+  {
+    "query": "Pension d’ascendants",
+    "gold_doc": "Ministère de l’Économie et des Finances__Pension d’ascendants"
+  },
+  {
+    "query": "Attestation de précomptes",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de précomptes"
+  },
+  {
+    "query": "Reclassement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Reclassement"
+  },
+  {
+    "query": "Attestation d'assujettissement à la TVA",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation d'assujettissement à la TVA"
+  },
+  {
+    "query": "Pension de réforme",
+    "gold_doc": "Ministère de l’Économie et des Finances__Pension de réforme"
+  },
+  {
+    "query": "Demande déconsignation caution  électorale",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande déconsignation caution  électorale"
+  },
+  {
+    "query": "Paiement d'un Chèque de Trésor par virement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Paiement d'un Chèque de Trésor par virement"
+  },
+  {
+    "query": "Remboursement des retenus de pensions pour fonctionnaire n’ayant pas droit à pensions",
+    "gold_doc": "Ministère de l’Économie et des Finances__Remboursement des retenus de pensions pour fonctionnaire n’ayant pas droit à pensions"
+  },
+  {
+    "query": "Allocations Familiales",
+    "gold_doc": "Ministère de l’Économie et des Finances__Allocations Familiales"
+  },
+  {
+    "query": "Avancements",
+    "gold_doc": "Ministère de l’Économie et des Finances__Avancements"
+  },
+  {
+    "query": "Attestation de Régularité fiscale",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de Régularité fiscale"
+  },
+  {
+    "query": "Prestation de service",
+    "gold_doc": "Ministère de l’Économie et des Finances__Prestation de service"
+  },
+  {
+    "query": "Attribution de code (importateur – Déclarant – Entrepôt – Consignataire)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attribution de code (importateur – Déclarant – Entrepôt – Consignataire)"
+  },
+  {
+    "query": "Établissement Certificat de Cessation de Paiement (CCP)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Établissement Certificat de Cessation de Paiement (CCP)"
+  },
+  {
+    "query": "Pension de Nouveau Retraité",
+    "gold_doc": "Ministère de l’Économie et des Finances__Pension de Nouveau Retraité"
+  },
+  {
+    "query": "Rejets bancaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Rejets bancaires"
+  },
+  {
+    "query": "Demande  déconsignation  caution de liberté provisoire",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande  déconsignation  caution de liberté provisoire"
+  },
+  {
+    "query": "Demande d'Ameublement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d'Ameublement"
+  },
+  {
+    "query": "Attestation de radiation du NIF",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de radiation du NIF"
+  },
+  {
+    "query": "Obtention d'une Exonération ou Admission Temporaire Exceptionnelle (ATE) ,  des marchandises ou des matériels, produits alimentaires,boissons alcoolisées et  véhicules destinés à l'usage exclusif d'une Ambassade ou d'un organisme assimilé",
+    "gold_doc": "Ministère de l’Économie et des Finances__Obtention d'une Exonération ou Admission Temporaire Exceptionnelle (ATE) ,  des marchandises ou des matériels, produits alimentaires,boissons alcoolis"
+  },
+  {
+    "query": "Demande d'un chéquier (Carnet des chèques)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d'un chéquier (Carnet des chèques)"
+  },
+  {
+    "query": "Demande de Lettre de Crédit (LC)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de Lettre de Crédit (LC)"
+  },
+  {
+    "query": "Volets d'immatriculation Véhicules 4x4",
+    "gold_doc": "Ministère de l’Économie et des Finances__Volets d'immatriculation Véhicules 4x4"
+  },
+  {
+    "query": "Chef du Division des Etudes",
+    "gold_doc": "Ministère de l’Économie et des Finances__Chef du Division des Etudes"
+  },
+  {
+    "query": "Détachement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Détachement"
+  },
+  {
+    "query": "Autorisation de levée d'acquits",
+    "gold_doc": "Ministère de l’Économie et des Finances__Autorisation de levée d'acquits"
+  },
+  {
+    "query": "Pensions de veuve (suite au décès d’un fonctionnaire en activité)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Pensions de veuve (suite au décès d’un fonctionnaire en activité)"
+  },
+  {
+    "query": "Attestation de non paiement des bons de caisse égarés",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de non paiement des bons de caisse égarés"
+  },
+  {
+    "query": "Extrait données sous format électronique",
+    "gold_doc": "Ministère de l’Économie et des Finances__Extrait données sous format électronique"
+  },
+  {
+    "query": "Renseignement sur pension ou chèque",
+    "gold_doc": "Ministère de l’Économie et des Finances__Renseignement sur pension ou chèque"
+  },
+  {
+    "query": "Demande d’obtention d’un Agrément de commissionnaire en Douane",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d’obtention d’un Agrément de commissionnaire en Douane"
+  },
+  {
+    "query": "Communication chiffre d'affaire société : Relevé des importations",
+    "gold_doc": "Ministère de l’Économie et des Finances__Communication chiffre d'affaire société _ Relevé des importations"
+  },
+  {
+    "query": "Demande de remboursement des cautions",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de remboursement des cautions"
+  },
+  {
+    "query": "Certificat d'exportation",
+    "gold_doc": "Ministère de l’Économie et des Finances__Certificat d'exportation"
+  },
+  {
+    "query": "Heures Supplémentaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Heures Supplémentaires"
+  },
+  {
+    "query": "Attestation d'immatriculation du fournisseur",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation d'immatriculation du fournisseur"
+  },
+  {
+    "query": "Prise en compte d’un nouveau fonctionnaire",
+    "gold_doc": "Ministère de l’Économie et des Finances__Prise en compte d’un nouveau fonctionnaire"
+  },
+  {
+    "query": "Ouverture d'un Compte de Dépôt",
+    "gold_doc": "Ministère de l’Économie et des Finances__Ouverture d'un Compte de Dépôt"
+  },
+  {
+    "query": "Agrément au Code des Investissements",
+    "gold_doc": "Ministère de l’Économie et des Finances__Agrément au Code des Investissements"
+  },
+  {
+    "query": "Demande de renseignement sur les virements bancaires et les visas des ordonnancements",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de renseignement sur les virements bancaires et les visas des ordonnancements"
+  },
+  {
+    "query": "Création d'Entreprise",
+    "gold_doc": "Ministère de l’Économie et des Finances__Création d'Entreprise"
+  },
+  {
+    "query": "Soumission au crédit de droit et d'enlèvement",
+    "gold_doc": "Ministère de l’Économie et des Finances__Soumission au crédit de droit et d'enlèvement"
+  },
+  {
+    "query": "Attestation de Recette (Redevance de Pêche)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de Recette (Redevance de Pêche)"
+  },
+  {
+    "query": "Virement bancaire",
+    "gold_doc": "Ministère de l’Économie et des Finances__Virement bancaire"
+  },
+  {
+    "query": "Demande d’obtention d’un Agrément de Consignation en Douane",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d’obtention d’un Agrément de Consignation en Douane"
+  },
+  {
+    "query": "Déconsignation de salaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Déconsignation de salaires"
+  },
+  {
+    "query": "Dédouanement   d’une marchandise (Cette formalité doit être légalement accomplie par un commissionnaire agrée en douane sauf  pour les opérations sans caractère commercial qui peuvent être déclarées par leur propriétaire)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Dédouanement   d’une marchandise (Cette formalité doit être légalement accomplie par un commissionnaire agrée en douane sauf  pour les opérations sans"
+  },
+  {
+    "query": "Procédure de paiement d’un fournisseur de l’Etat",
+    "gold_doc": "Ministère de l’Économie et des Finances__Procédure de paiement d’un fournisseur de l’Etat"
+  },
+  {
+    "query": "Communication données statistique sur le commerce extérieur : Import/export de produit – Échanges avec d’autres pays",
+    "gold_doc": "Ministère de l’Économie et des Finances__Communication données statistique sur le commerce extérieur _ Import_export de produit – Échanges avec d’autres pays"
+  },
+  {
+    "query": "Certification des Chèques Trésor",
+    "gold_doc": "Ministère de l’Économie et des Finances__Certification des Chèques Trésor"
+  },
+  {
+    "query": "Régularisation",
+    "gold_doc": "Ministère de l’Économie et des Finances__Régularisation"
+  },
+  {
+    "query": "Obtention d'une exonération",
+    "gold_doc": "Ministère de l’Économie et des Finances__Obtention d'une exonération"
+  },
+  {
+    "query": "Autorisation de circuler des non résidents (véhicules) quitus",
+    "gold_doc": "Ministère de l’Économie et des Finances__Autorisation de circuler des non résidents (véhicules) quitus"
+  },
+  {
+    "query": "Paiement d'un Chèque de Trésor par caisse",
+    "gold_doc": "Ministère de l’Économie et des Finances__Paiement d'un Chèque de Trésor par caisse"
+  },
+  {
+    "query": "Pension de Réversion",
+    "gold_doc": "Ministère de l’Économie et des Finances__Pension de Réversion"
+  },
+  {
+    "query": "Exonérations véhicules parlementaires",
+    "gold_doc": "Ministère de l’Économie et des Finances__Exonérations véhicules parlementaires"
+  },
+  {
+    "query": "Demande du Règlement d'un rejet bancaire",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande du Règlement d'un rejet bancaire"
+  },
+  {
+    "query": "Attestation de Recette (Amende de Pêche)",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation de Recette (Amende de Pêche)"
+  },
+  {
+    "query": "Demande d'admission en franchise des droits et taxes de Douane des objets, effets, mobiliers et véhicules importés à l'occasion de la rentrée définitive en Mauritanie",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d'admission en franchise des droits et taxes de Douane des objets, effets, mobiliers et véhicules importés à l'occasion de la rentrée définiti"
+  },
+  {
+    "query": "Fonctionnaires à l’étranger",
+    "gold_doc": "Ministère de l’Économie et des Finances__Fonctionnaires à l’étranger"
+  },
+  {
+    "query": "Demande de stage",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de stage"
+  },
+  {
+    "query": "Remboursement et Retenus Pensions",
+    "gold_doc": "Ministère de l’Économie et des Finances__Remboursement et Retenus Pensions"
+  },
+  {
+    "query": "Demande d'ouverture des comptes divisionnaires du compte courant du Trésor à la BCM",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande d'ouverture des comptes divisionnaires du compte courant du Trésor à la BCM"
+  },
+  {
+    "query": "Établissement Badge Pour accès salle machine",
+    "gold_doc": "Ministère de l’Économie et des Finances__Établissement Badge Pour accès salle machine"
+  },
+  {
+    "query": "Demande de relevé de compte de dépôt au Trésor",
+    "gold_doc": "Ministère de l’Économie et des Finances__Demande de relevé de compte de dépôt au Trésor"
+  },
+  {
+    "query": "Attestation fiscale",
+    "gold_doc": "Ministère de l’Économie et des Finances__Attestation fiscale"
+  },
+  {
+    "query": "Approbation d’un acte de naissance délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Approbation d’un acte de naissance délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)"
+  },
+  {
+    "query": "Procédure de déclaration Pour Les Associations Et Les Amicales   (Type National)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure de déclaration Pour Les Associations Et Les Amicales   (Type National)"
+  },
+  {
+    "query": "Declaration de naissance",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Declaration de naissance"
+  },
+  {
+    "query": "Demande de remplacement d'une carte d’identité pour rectification (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'une carte d’identité pour rectification (Titres sécurisés)"
+  },
+  {
+    "query": "Demande de remplacement d'un passeport pour rectification (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'un passeport pour rectification (Titres sécurisés)"
+  },
+  {
+    "query": "Le certificat de non divorce et de non remariage ou certificat de non remariage",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat de non divorce et de non remariage ou certificat de non remariage"
+  },
+  {
+    "query": "Enrôlement au registre de la population d’un enfant né de parents étrangers (Enrôlement au registre biométrique national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Enrôlement au registre de la population d’un enfant né de parents étrangers (Enrôlement au registre biométrique national)"
+  },
+  {
+    "query": "Procédure de Déclaration pour les Associations et les Amicales   (typ regional )",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure de Déclaration pour les Associations et les Amicales   (typ regional )"
+  },
+  {
+    "query": "Procédure De Déclaration Pour Les Fondations",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure De Déclaration Pour Les Fondations"
+  },
+  {
+    "query": "Demande de la salle (multi media)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de la salle (multi media)"
+  },
+  {
+    "query": "Lutte contre les moustiques",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Lutte contre les moustiques"
+  },
+  {
+    "query": "Demande de remplacement d'une carte d’identité en cas de perte  (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'une carte d’identité en cas de perte  (Titres sécurisés)"
+  },
+  {
+    "query": "L ’attestation d’hébergement",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L ’attestation d’hébergement"
+  },
+  {
+    "query": "Déclaration du mariage hors du délais légal",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration du mariage hors du délais légal"
+  },
+  {
+    "query": "Déclaration de divorce à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de divorce à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étrange"
+  },
+  {
+    "query": "Demande de renouvellement de passeport (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de renouvellement de passeport (Titres sécurisés)"
+  },
+  {
+    "query": "Le certificat d’individualité ou de concordance ou de conformité",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat d’individualité ou de concordance ou de conformité"
+  },
+  {
+    "query": "L’attestation de polygamie",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de polygamie"
+  },
+  {
+    "query": "Déclaration de l'enfant dont le père est inconnu",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de l'enfant dont le père est inconnu"
+  },
+  {
+    "query": "L’attestation de prise en charge",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de prise en charge"
+  },
+  {
+    "query": "L’attestation de non emploi",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de non emploi"
+  },
+  {
+    "query": "Déclaration de décès à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de décès à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)"
+  },
+  {
+    "query": "Formalité d'obtention de visas d'entrée",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Formalité d'obtention de visas d'entrée"
+  },
+  {
+    "query": "Le certificat d’indigence",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat d’indigence"
+  },
+  {
+    "query": "Déclaration de l'enfant trouvé (abandonné)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de l'enfant trouvé (abandonné)"
+  },
+  {
+    "query": "Enrôlement au registre de la population d’un enfant né d’un père inconnu (Enrôlement au Registre biométrique national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Enrôlement au registre de la population d’un enfant né d’un père inconnu (Enrôlement au Registre biométrique national)"
+  },
+  {
+    "query": "Enrôlement au registre de la population des enfants nés de parents dont l'un est mauritanien et l'autre est étranger (Enrôlement au Registre biométrique national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Enrôlement au registre de la population des enfants nés de parents dont l'un est mauritanien et l'autre est étranger (Enrôlement au Registre biométriq"
+  },
+  {
+    "query": "Demande de formation",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de formation"
+  },
+  {
+    "query": "Déclaration de naissance d’un enfant à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de naissance d’un enfant à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civ"
+  },
+  {
+    "query": "Demande d’autorisation d’ouverture d’un établissement d’enseignement privé",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande d’autorisation d’ouverture d’un établissement d’enseignement privé"
+  },
+  {
+    "query": "Obtention d’une carte de séjour (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Obtention d’une carte de séjour (Titres sécurisés)"
+  },
+  {
+    "query": "Procédure de déclaration pour les réseaux (type national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure de déclaration pour les réseaux (type national)"
+  },
+  {
+    "query": "Enrôlement au registre de la population d’un enfant né de parents mauritaniens (Enrôlement au Registre biométrique national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Enrôlement au registre de la population d’un enfant né de parents mauritaniens (Enrôlement au Registre biométrique national)"
+  },
+  {
+    "query": "Le certificat de vie collectif",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat de vie collectif"
+  },
+  {
+    "query": "Demande de remplacement d'un passeport en cas de perte  (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'un passeport en cas de perte  (Titres sécurisés)"
+  },
+  {
+    "query": "Le certificat de vie individuel",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat de vie individuel"
+  },
+  {
+    "query": "Approbation d’un acte de décès délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Approbation d’un acte de décès délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)"
+  },
+  {
+    "query": "Procédure de déclaration pour les réseaux (type régional:Moughataa)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure de déclaration pour les réseaux (type régional_Moughataa)"
+  },
+  {
+    "query": "Demande d'obtention de passeport  pour la première fois (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande d'obtention de passeport  pour la première fois (Titres sécurisés)"
+  },
+  {
+    "query": "Déclaration de décès  dans les délais légaux",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de décès  dans les délais légaux"
+  },
+  {
+    "query": "L’autorisation parentale",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’autorisation parentale"
+  },
+  {
+    "query": "Demande de la salle (centre culturel)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de la salle (centre culturel)"
+  },
+  {
+    "query": "Aide",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Aide"
+  },
+  {
+    "query": "Le certificat de non mariage",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat de non mariage"
+  },
+  {
+    "query": "Declaration de divorce",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Declaration de divorce"
+  },
+  {
+    "query": "Enrôlement au registre de la population d'un adultérin (Enrôlement au registre biométrique national)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Enrôlement au registre de la population d'un adultérin (Enrôlement au registre biométrique national)"
+  },
+  {
+    "query": "Travaux de désenclavement",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Travaux de désenclavement"
+  },
+  {
+    "query": "Demande d'éclairage public",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande d'éclairage public"
+  },
+  {
+    "query": "achat de médicament",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__achat de médicament"
+  },
+  {
+    "query": "Approbation d’un acte de divorce délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Approbation d’un acte de divorce délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)"
+  },
+  {
+    "query": "Demande de réservoir d'eau",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de réservoir d'eau"
+  },
+  {
+    "query": "L’attestation de non salarié",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de non salarié"
+  },
+  {
+    "query": "L’attestation de déménagement ou de changement de résidence",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de déménagement ou de changement de résidence"
+  },
+  {
+    "query": "Procédure de déclaration pour les réseaux (type régional:Wilaya)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédure de déclaration pour les réseaux (type régional_Wilaya)"
+  },
+  {
+    "query": "L’attestation de monogamie",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation de monogamie"
+  },
+  {
+    "query": "Demande de remplacement d'un passeport abîmé  (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'un passeport abîmé  (Titres sécurisés)"
+  },
+  {
+    "query": "Demande de renouvellement d'une carte d’identité (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de renouvellement d'une carte d’identité (Titres sécurisés)"
+  },
+  {
+    "query": "Prise en charge des patients",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Prise en charge des patients"
+  },
+  {
+    "query": "L’attestation d'analphabète",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__L’attestation d'analphabète"
+  },
+  {
+    "query": "Demande de remplacement d'une  carte d’identité d'une validité inférieure à 6 mois (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'une  carte d’identité d'une validité inférieure à 6 mois (Titres sécurisés)"
+  },
+  {
+    "query": "Le certificat de résidence",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Le certificat de résidence"
+  },
+  {
+    "query": "Procédures de déclarations pour les associations et les amicales  (TYPE LOCAL )",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Procédures de déclarations pour les associations et les amicales  (TYPE LOCAL )"
+  },
+  {
+    "query": "Approbation d’un acte  de mariage délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Approbation d’un acte  de mariage délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)"
+  },
+  {
+    "query": "Déclaration de décès hors des délais légaux",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de décès hors des délais légaux"
+  },
+  {
+    "query": "Demande d’autorisation de diriger un établissement d'enseignement privé",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande d’autorisation de diriger un établissement d'enseignement privé"
+  },
+  {
+    "query": "Déclaration de mariage à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Déclaration de mariage à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étrange"
+  },
+  {
+    "query": "Permettre le mariage dans les délais légaux",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Permettre le mariage dans les délais légaux"
+  },
+  {
+    "query": "Demande de remplacement d'une carte d'identité abîmée  (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande de remplacement d'une carte d'identité abîmée  (Titres sécurisés)"
+  },
+  {
+    "query": "Demande d'obtention de carte d’identité pour la première fois (Titres sécurisés)",
+    "gold_doc": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local__Demande d'obtention de carte d’identité pour la première fois (Titres sécurisés)"
+  }
+]

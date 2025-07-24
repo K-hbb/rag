@@ -1,0 +1,13 @@
+Titre de la procédure: Enfant abondonné (Service de pédiatrie)
+URL: https://procedures.gov.mr/fr/procedure/1807
+
+Usagers de la procédure: Nouveaux nés
+Entité chargée de la procédure: Réanimation pédiatrique et de Néonatologie
+Documents requis: Réquisition de la police
+Entité chargée de la réception de la demande: Réanimation pédiatrique
+Entités chargées du traitement de la demande: Médecin pédiatre
+Entité chargée de fournir la prestation demandée: service maternité
+Délai de traitement: selon la diagnostic du Médecin
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: Major service de réanimation
+Contact: contact@sante.gov.mr

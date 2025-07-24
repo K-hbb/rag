@@ -1,0 +1,18 @@
+Titre de la procédure: Prise en Charge des Indigents
+URL: https://procedures.gov.mr/fr/procedure/1561
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Social
+Documents requis: NNI(carte d’ identité nationale)
+ 	billet d'hôpital/
+ 	Certificat d'Indigence délivré par la mairie/
+ 	Enquête du Service Sociale
+Entité chargée de la réception de la demande: Service Social
+Entités chargées du traitement de la demande: Service Social
+Entité chargée de fournir la prestation demandée: Service Social
+Délai de traitement: Même Jour
+Frais afférents à la procédure: Non Concerné
+Entité chargée de recevoir les réclamations: Service Social
+Contact: Service affaires sociales: 22621391
+contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Statut et règlement intérieur du CHCZ

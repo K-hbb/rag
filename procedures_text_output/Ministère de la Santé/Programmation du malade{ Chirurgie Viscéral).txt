@@ -1,0 +1,13 @@
+Titre de la procédure: Programmation du malade{ Chirurgie Viscéral)
+URL: https://procedures.gov.mr/fr/procedure/1671
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de la chirurgie viscéral
+Documents requis: Analyses sanguin -Radio-Scanner-IRM
+Entité chargée de la réception de la demande: Service de la chirurgie viscéral
+Entités chargées du traitement de la demande: Service de la chirurgie viscéral
+Entité chargée de fournir la prestation demandée: Service de la chirurgie viscéral
+Délai de traitement: Selon le type d’Opération le délai est indéterminé
+Frais afférents à la procédure: Hernie : 5500 MRU - Cœlioscopie : 5500 MRU- Lithiase vésiculaire  : 8500 MRU- Éventration : 6000 MRU
+Entité chargée de recevoir les réclamations: Direction centrale de l'hospital
+Contact: contact@sante.gov.mr

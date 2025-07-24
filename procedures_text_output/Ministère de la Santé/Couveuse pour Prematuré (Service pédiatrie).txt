@@ -1,0 +1,13 @@
+Titre de la procédure: Couveuse pour Prematuré (Service pédiatrie)
+URL: https://procedures.gov.mr/fr/procedure/1809
+
+Usagers de la procédure: Nouveaux nés
+Entité chargée de la procédure: Réanimation pédiatrique & de Néonatologie
+Documents requis: lettre de liaison fourni par la maternité
+Entité chargée de la réception de la demande: Réanimation pédiatrique
+Entités chargées du traitement de la demande: Médecin pédiatre
+Entité chargée de fournir la prestation demandée: service maternité
+Délai de traitement: selon la diagnostic du Médecin
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Major service réanimation
+Contact: contact@sante.gov.mr

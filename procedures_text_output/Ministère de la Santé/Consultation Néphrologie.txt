@@ -1,0 +1,14 @@
+Titre de la procédure: Consultation Néphrologie
+URL: https://procedures.gov.mr/fr/procedure/1668
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: service Néphrologie
+Documents requis: Bulletin d'examen + Pièce d'identité
+Entité chargée de la réception de la demande: service Néphrologie
+Entités chargées du traitement de la demande: Major de Néphrologie
+Entité chargée de fournir la prestation demandée: Médcine
+Délai de traitement: Immédiat
+Frais afférents à la procédure: 50MRU, 20MRU pour les assurances maladies
+Entité chargée de recevoir les réclamations: Surveillant général et Major
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Protocole de l'hôpital

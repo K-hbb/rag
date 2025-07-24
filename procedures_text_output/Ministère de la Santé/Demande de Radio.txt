@@ -1,0 +1,16 @@
+Titre de la procédure: Demande de Radio
+URL: https://procedures.gov.mr/fr/procedure/1636
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Imagerie médicale
+Documents requis: Bulletin de l’examen Renseigné
+Reçu de paiement
+Entité chargée de la réception de la demande: Service de l’imagerie médicale 
+ 	Bureau des entrées
+Entités chargées du traitement de la demande: Service de l’imagerie médicale
+Entité chargée de fournir la prestation demandée: Service de l’imagerie médicale
+Délai de traitement: immediat
+Frais afférents à la procédure: Tarification suivant le type d'examen
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHCZ en 2001
+ Statut et règlement intérieur du CHCZ

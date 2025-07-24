@@ -1,0 +1,12 @@
+Titre de la procédure: Tuberculose pulmonaire (Département des maladies thoraciques)
+URL: https://procedures.gov.mr/fr/procedure/1815
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Patients atteints de tuberculose pulmonaire
+Documents requis: Orientation d'un médecin généraliste vers un spécialiste du thorax + examen radiologique + examens initiaux
+Entité chargée de la réception de la demande: Maladies thoraciques
+Entités chargées du traitement de la demande: Maladies thoraciques
+Entité chargée de fournir la prestation demandée: Maladies thoraciques
+Délai de traitement: Une à deux semaines selon la condition
+Frais afférents à la procédure: "50 MRU pour visite- 150 MRU pour hospitalisation pendant 5 jours"
+Entité chargée de recevoir les réclamations: Superviseur ou chef du service des maladies thoraciques

@@ -1,0 +1,14 @@
+Titre de la procédure: Suivi externe
+URL: https://procedures.gov.mr/fr/procedure/1720
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Dermatologie
+Documents requis: Ordonnance médicale
+Entité chargée de la réception de la demande: Surveillant- Secrétariat
+Entités chargées du traitement de la demande: Service Dermatologie
+Entité chargée de fournir la prestation demandée: Service de Dermatologie et des Maladies Sexuellement Transmissibles
+Délai de traitement: Selon le cas
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Chef service Dermatologie
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Décret portant institution de l'hôpital

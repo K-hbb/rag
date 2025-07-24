@@ -1,0 +1,14 @@
+Titre de la procédure: Transferts  d'étudiants d'un Ets. vers un autre
+URL: https://procedures.gov.mr/fr/procedure/925
+
+Description de la procédure ou du service: Après orientation, des étudiants demandent des transferts d'un Ets. vers un autre.
+Usagers de la procédure: Professionnels
+Entité chargée de la procédure: DOB
+Documents requis: Attestation d'inscription à l'établissement (départ) ou fiche d'oirentation
+Entité chargée de la réception de la demande: DOB
+Entités chargées du traitement de la demande: DOB
+Entité chargée de fournir la prestation demandée: DOB
+Délai de traitement: deux semaines
+Entité chargée de recevoir les réclamations: DOB
+Contact: www.mesrs.gov.mr puis DOB
+Bases juridiques et réglementaires de la procédure: textes du MESRS

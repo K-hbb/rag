@@ -1,0 +1,13 @@
+Titre de la procédure: Hospitalisation (médecine interne)
+URL: https://procedures.gov.mr/fr/procedure/1749
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de médecine interne
+Documents requis: Bulletin de consultation-Fiche de traitement-Fiche de transfert-Ordonnances-Bulletin des examens-Fiche d'observation.
+Entité chargée de la réception de la demande: Service de médecine interne
+Entités chargées du traitement de la demande: Service de médecine interne
+Entité chargée de fournir la prestation demandée: Service de médecine interne
+Délai de traitement: Variable
+Frais afférents à la procédure: "Ça dépend du chambre :  Chambre normale 1000MRU par 5jours Chambre  Individuel 2500MRU  par 5 jours Chambre VIP 5000MRU par 5 jours"
+Entité chargée de recevoir les réclamations: Major - chef service
+Contact: contact@sante.gov.mr

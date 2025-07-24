@@ -1,0 +1,16 @@
+Titre de la procédure: Consultation Pré anesthésie( Chirurgie Viscérale)
+URL: https://procedures.gov.mr/fr/procedure/1672
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service chirurgie viscérale
+Documents requis: Examens sanguins
+Radio
+Scanner
+IRM
+Entité chargée de la réception de la demande: Service chirurgie viscérale
+Entités chargées du traitement de la demande: Service chirurgie viscérale
+Entité chargée de fournir la prestation demandée: Service chirurgie viscérale
+Délai de traitement: Non precise
+Frais afférents à la procédure: Non Concerné (N/A)
+Entité chargée de recevoir les réclamations: Direction centrale de l'hospital
+Contact: contact@sante.gov.mr

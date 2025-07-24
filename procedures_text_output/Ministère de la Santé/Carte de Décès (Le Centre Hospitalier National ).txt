@@ -1,0 +1,13 @@
+Titre de la procédure: Carte de Décès (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1389
+
+Description de la procédure ou du service: Enregistrement des Décès
+Usagers de la procédure: Accompagnant du décède
+Entité chargée de la procédure: SERVICE DES HOSPITALISATION ET SOINS EXTERNES
+Documents requis: Carte d'Identité du Décès et la Carte d'un Parent
+Entité chargée de la réception de la demande: SERVICE DES HOSPITALISATION ET SOINS EXTERNES
+Entités chargées du traitement de la demande: Etat Civil
+Entité chargée de fournir la prestation demandée: SERVICE DES HOSPITALISATION ET SOINS EXTERNES
+Délai de traitement: l'immédiat
+Entité chargée de recevoir les réclamations: SERVICE DES HOSPITALISATION ET SOINS EXTERNES
+Contact: contact@sante.gov.mr

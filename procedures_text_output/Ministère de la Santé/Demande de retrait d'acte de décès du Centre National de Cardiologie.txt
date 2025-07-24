@@ -1,0 +1,9 @@
+Titre de la procédure: Demande de retrait d'acte de décès du Centre National de Cardiologie
+URL: https://procedures.gov.mr/fr/procedure/1539
+
+Description de la procédure ou du service: Retrait d'acte de décès
+Entité chargée de la procédure: Surveillant du service où le patient est décédé
+Documents requis: Certificat d'exhumation du corps
+Carte d'identité du défunt
+Carte d'identité de la personne qui tirera le certificat
+Entité chargée de la réception de la demande: Bureau d’admission et de facturation du service où le patient est décédé

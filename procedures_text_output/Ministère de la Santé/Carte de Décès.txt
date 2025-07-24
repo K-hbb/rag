@@ -1,0 +1,13 @@
+Titre de la procédure: Carte de Décès
+URL: https://procedures.gov.mr/fr/procedure/1564
+
+Usagers de la procédure: Accompagnant du décède
+Entité chargée de la procédure: Différents services d’hospitalisation 
+Service d’urgences
+Documents requis: Carte d'Identité du décédé  et la Carte de l'accompagnant
+Entité chargée de la réception de la demande: Différent services d’hospitalisation
+Entités chargées du traitement de la demande: Etat Civil
+Entité chargée de fournir la prestation demandée: Différents services d’hospitalisation et de soins externes
+Délai de traitement: l'immédiat
+Entité chargée de recevoir les réclamations: Différent services d’hospitalisation et de soins externes
+Contact: contact@sante.gov.mr

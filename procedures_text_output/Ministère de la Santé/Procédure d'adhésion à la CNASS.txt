@@ -1,0 +1,29 @@
+Titre de la procédure: Procédure d'adhésion à la CNASS
+URL: https://procedures.gov.mr/fr/procedure/1292
+
+Description de la procédure ou du service: La procédure a pour objet de définir les modalités de gestion des adhésions au sein de la CNASS. 
+La gestion des adhésions repose sur un ensemble d'étapes et de documents pour l’enregistrement et le suivi des assurés :
+- Visite d'une antenne ou d'un guichet de la CNASS par les personnes éligibles au régime d'assurance maladie de la CNASS ;
+- Accueil des bénéficiaires et distribution d'un ticket d'attente ;
+- Information sur les produits et services de la CNASS (termes et conditions du régime d'assurance maladie de la CNASS) ;
+- Vérification des dossiers sur la base des informations personnelles fournies ;
+- Paiement des cotisations : espèces ; paiement mobile ; transactions bancaires (virement ou chèques) ;
+- Saisie des informations personnelles de l’assuré principal et des personnes à charge ;
+- Contrôle de qualité des attestations de droits à travers une analyse des informations saisies dans le registre d'adhésion ;
+- Génération de l’attestation de droits et envoie électronique par message.
+Usagers de la procédure: Particulier
+Entité chargée de la procédure: Les agences régionales
+Documents requis: Lors de la demande d’adhésion, il est requis de présenter une pièce d'identité accompagnée d’une photo. 
+Les documents ou pièces suivantes sont exigés pour toute demande d’adhésion à la CNASS :
+•	Pour les Mauritaniens : carte d’identité nationale, passeport ou extrait d’acte de naissance ;
+•	Pour les migrants (en situation régulière) : carte de séjour émis par l'agence ANRPTS ou pièce d’identité en cas d’accord bilatéral ;
+•	Pour les réfugiés/demandeur d'asile : carte/attestation de réfugié ou attestation de bénéficiaire d’asile.
+Entité chargée de la réception de la demande: - Les antennes 
+- Les guichets
+Entités chargées du traitement de la demande: - Les antennes 
+- Les guichets
+Entité chargée de fournir la prestation demandée: CNASS
+Délai de traitement: 30 jours
+Entité chargée de recevoir les réclamations: Agence régionale
+Contact: Courriel : management@cnass.mr ; Téléphone:  +222 45 25 95 16 ; Mobile (WhatsApp) : 42 45 11 00 / 42 45 11 22
+Bases juridiques et réglementaires de la procédure: Arrêté conjoint N°858 MS/MF fixant les taux de cotisation et les modalités d'adhésion à la CNASS

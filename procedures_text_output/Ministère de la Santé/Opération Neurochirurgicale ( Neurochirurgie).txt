@@ -1,0 +1,19 @@
+Titre de la procédure: Opération Neurochirurgicale ( Neurochirurgie)
+URL: https://procedures.gov.mr/fr/procedure/1674
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Major de service neurochirurgical
+Documents requis: Fiche anesthésie
+Bilan sanguin
+Radio
+Scanner
+IRM
+Accord de l'anesthésiste
+Entité chargée de la réception de la demande: Major de service neurochirurgical
+Entités chargées du traitement de la demande: Neurologue
+Entité chargée de fournir la prestation demandée: Chef de service neurochirurgie
+Délai de traitement: Précise par le spécialiste selon le type d'opération
+Frais afférents à la procédure: Hydrocéphale( frais + Kit 4 médicament= 9800 MRU)- Hématome souderal(frais 9800 MRU) - Tumeur cérébrale(7300+12000=19300 MRU)-Embalure(5300+KIT 2500)-Amerisme (45300MRU) Hématome extradiral(42500MRU)- Rachis cervical traumatique(80000MRU)
+Entité chargée de recevoir les réclamations: Major du service
+Direction central de l'hospital
+Contact: contact@sante.gov.mr

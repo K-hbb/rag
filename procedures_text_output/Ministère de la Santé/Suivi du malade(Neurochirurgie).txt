@@ -1,0 +1,14 @@
+Titre de la procédure: Suivi du malade(Neurochirurgie)
+URL: https://procedures.gov.mr/fr/procedure/1675
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Neurologue
+Documents requis: Ordonnance
+Entité chargée de la réception de la demande: Neurologue
+Entités chargées du traitement de la demande: Neurologue
+Entité chargée de fournir la prestation demandée: Service de neurochirurgie
+Délai de traitement: Non precise
+Frais afférents à la procédure: selon le type d'opération
+Entité chargée de recevoir les réclamations: Major du service neurochirurgie
+Direction centrale de l'hospital
+Contact: contact@sante.gov.mr

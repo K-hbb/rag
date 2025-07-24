@@ -1,0 +1,13 @@
+Titre de la procédure: Réanimation et Néonatologie(Service de pédiatrie)
+URL: https://procedures.gov.mr/fr/procedure/1808
+
+Usagers de la procédure: Enfants,                                                                                     Nouveaux nés
+Entité chargée de la procédure: Chambre B nouveau né (service de pédiatrie)
+Documents requis: lettre de liaison  fourni par la maternité
+Entité chargée de la réception de la demande: Réanimation pédiatrique
+Entités chargées du traitement de la demande: Médecin pédiatre
+Entité chargée de fournir la prestation demandée: service maternité
+Délai de traitement: selon la diagnostic du Médecin
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Major service réanimation
+Contact: contact@sante.gov.mr

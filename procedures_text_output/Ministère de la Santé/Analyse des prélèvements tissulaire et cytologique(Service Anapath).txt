@@ -1,0 +1,13 @@
+Titre de la procédure: Analyse des prélèvements tissulaire et cytologique(Service Anapath)
+URL: https://procedures.gov.mr/fr/procedure/1802
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Anapath
+Documents requis: bulletin d'examen bien rempli et cacheté avec le nom du médecin : le reçu de paiement
+Entité chargée de la réception de la demande: division Reception
+Entités chargées du traitement de la demande: salle de laboratoire
+Entité chargée de fournir la prestation demandée: Medecin anapath
+Délai de traitement: 1 mois
+Frais afférents à la procédure: selon le prélèvement
+Entité chargée de recevoir les réclamations: direction générale
+Contact: direction generale@sante.gov.com

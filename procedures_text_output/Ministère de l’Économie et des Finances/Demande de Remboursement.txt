@@ -1,0 +1,17 @@
+Titre de la procédure: Demande de Remboursement
+URL: https://procedures.gov.mr/fr/procedure/280
+
+Usagers de la procédure: Professionnels
+Entité chargée de la procédure: Ministère des Finances وزارة المالية
+Documents requis: Copie déclaration
+Bulletin contre liquidation
+Quittance trésor
+Entité chargée de la réception de la demande: Bureau de dédouanement
+Entités chargées du traitement de la demande: Direction Générale des Douanes/Direction des Recettes et de l’Informatique (D6)/Service recette
+Entité chargée de fournir la prestation demandée: Ministre des finances
+Délai de traitement: non spécifier
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: non spécifier
+Contact: contact@finances.gov.mr
+Bases juridiques et réglementaires de la procédure: Code des douanes (art 115)
+Décret 62.126 du 26/6/62

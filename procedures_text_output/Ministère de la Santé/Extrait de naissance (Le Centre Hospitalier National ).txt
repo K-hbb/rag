@@ -1,0 +1,13 @@
+Titre de la procédure: Extrait de naissance (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1503
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Services des hospitalisations et soins externes
+Documents requis: Copie des Pièces d'Identité des parents/quittance de régularisation
+Entité chargée de la réception de la demande: Agent de l'État Civil du service des hospitalisations et des soins externes du Centre Hospitalier National
+Entités chargées du traitement de la demande: Agent de l'État Civil du service des hospitalisations et des soins externes du Centre Hospitalier National
+Entité chargée de fournir la prestation demandée: Agent de l'État Civil du service des hospitalisations et des soins externes du Centre Hospitalier National
+Délai de traitement: 3 jours
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: Service des hospitalisations et soins externes
+Contact: contact@sante.gov.mr

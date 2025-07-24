@@ -1,0 +1,13 @@
+Titre de la procédure: Constat de décès
+URL: https://procedures.gov.mr/fr/procedure/1604
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service des urgences
+Documents requis: Pièce d'identité du décès-Réquisition
+Entité chargée de la réception de la demande: Service des urgences
+Entités chargées du traitement de la demande: Service des urgences
+Entité chargée de fournir la prestation demandée: Service des urgences
+Délai de traitement: Immédiat
+Frais afférents à la procédure: 50 MRU -Immediat
+Entité chargée de recevoir les réclamations: Service des urgences
+Contact: contact@sante.gov.mr

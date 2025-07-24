@@ -1,0 +1,12 @@
+Titre de la procédure: Consultation gynécologique en urgence
+URL: https://procedures.gov.mr/fr/procedure/1632
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service gynecologie
+Documents requis: Nouveau patient: Aucun
+Patient suivi : Dossier médical
+Entité chargée de la réception de la demande: Service maternité
+Entités chargées du traitement de la demande: Service maternité (vatma mbarke)
+Délai de traitement: immediat
+Entité chargée de recevoir les réclamations: Surveillant de service/Chef d’équipe
+Contact: contact@sante.gov.mr

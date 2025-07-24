@@ -1,0 +1,15 @@
+Titre de la procédure: Accueil des patients Maternité
+URL: https://procedures.gov.mr/fr/procedure/1625
+
+Description de la procédure ou du service: -En cas d'urgence consultation par le médecin
+-Non urgence malade libéré
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Urgence Maternite
+Documents requis: Aucun
+Entité chargée de la réception de la demande: Urgence Maternite
+Entités chargées du traitement de la demande: Sage femme-service d'urgence-médecin résident de garde
+Entité chargée de fournir la prestation demandée: Urgence Maternite
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Requisition service urgence
+Contact: contact@sante.gov.mr

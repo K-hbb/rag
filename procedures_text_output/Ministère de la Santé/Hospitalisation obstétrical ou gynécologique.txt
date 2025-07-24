@@ -1,0 +1,18 @@
+Titre de la procédure: Hospitalisation obstétrical ou gynécologique
+URL: https://procedures.gov.mr/fr/procedure/1629
+
+Description de la procédure ou du service: Obstétrical : 
+-Accouchement prématuré 
+-Vomissement gravidique
+-toutes les complications d'accouchement par césarienne
+Gynécologique :
+-Fibrome-cancer-steloctomie de l'uterus -biopsie
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Bloc opératoire + salle d'accouchement +salle d'urgence
+Entité chargée de la réception de la demande: service de la maternite
+Entités chargées du traitement de la demande: sages femmes et infirmières
+Entité chargée de fournir la prestation demandée: service de la maternité
+Délai de traitement: premiere categorie  5 jours-deuxieme categories 5 jours-troisieme categories 5 jours -vip 24h
+Frais afférents à la procédure: 1500 MRU (première catégorie)-1000mru(vip)-600 MRU (deuxième catégorie)-300 MRU (troisième catégorie)
+Entité chargée de recevoir les réclamations: Réquisition service maternité
+Contact: contact@sante.gov.mr

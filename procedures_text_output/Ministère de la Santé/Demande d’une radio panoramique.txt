@@ -1,0 +1,18 @@
+Titre de la procédure: Demande d’une radio panoramique
+URL: https://procedures.gov.mr/fr/procedure/1686
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de stomatologie
+Documents requis: Bulletin de l’examen Renseigné
+  Reçu de paiement
+Entité chargée de la réception de la demande: Service de stomatologie
+ Bureau des entrées
+Entités chargées du traitement de la demande: Service de stomatologie
+Entité chargée de fournir la prestation demandée: Service de stomatologie
+Délai de traitement: immédiat
+Frais afférents à la procédure: Tarification suivant le type de l’Echographie
+Entité chargée de recevoir les réclamations: Direction de l’hôpital
+Médecine interne
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHCZ en 2001
+ Statut et règlement intérieur du CHCZ

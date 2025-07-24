@@ -1,0 +1,13 @@
+Titre de la procédure: Hospitalisation (Service de Pédiatrie)
+URL: https://procedures.gov.mr/fr/procedure/1806
+
+Usagers de la procédure: Enfants,                                                                                     Nouveaux nés
+Entité chargée de la procédure: Accueil du Service  Pédiatrique
+Documents requis: dossier médicale & fiche d'observation
+Entité chargée de la réception de la demande: L'infirmier d'hospitalisation
+Entités chargées du traitement de la demande: Médecin pédiatre
+Entité chargée de fournir la prestation demandée: L'infirmier qui recoit le patient
+Délai de traitement: selon la diagnostic du Médecin
+Frais afférents à la procédure: VIP 3000 MRU pour 3 jours , 1ere Categorie: 1500 MRU pour 3 jours- 3éme Catégorie 300 MRU pour 5 jours
+Entité chargée de recevoir les réclamations: Major service pédiatrie générale
+Contact: contact@sante.gov.mr

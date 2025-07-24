@@ -1,0 +1,13 @@
+Titre de la procédure: Données sur un point d'eau
+URL: https://procedures.gov.mr/fr/procedure/1125
+
+Usagers de la procédure: Professionnels
+Entité chargée de la procédure: Service Inventaire et Gestion(SIG)
+Documents requis: -Nom du point d'eau recherché
+-Sa localisation
+Entité chargée de la réception de la demande: Secrétariat
+Entités chargées du traitement de la demande: Service Inventaire et Gestion(SIG)
+Entité chargée de fournir la prestation demandée: Service Inventaire et Gestion(SIG)
+Délai de traitement: 1semaine
+Frais afférents à la procédure: aucune taxe
+Entité chargée de recevoir les réclamations: Service Inventaire et Gestion(SIG)

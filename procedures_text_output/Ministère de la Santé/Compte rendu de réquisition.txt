@@ -1,0 +1,20 @@
+Titre de la procédure: Compte rendu de réquisition
+URL: https://procedures.gov.mr/fr/procedure/1634
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service d'urgence
+Documents requis: Réquisition adressée a CHCZ
+Entité chargée de la réception de la demande: Service d'urgence
+Service pédiatrie
+Service maternité
+Entités chargées du traitement de la demande: Service d'urgence
+Service pédiatrie
+Service maternité
+Entité chargée de fournir la prestation demandée: Service d'urgence
+Service pédiatrie
+Service maternité
+Délai de traitement: 24 H a 72 H
+Frais afférents à la procédure: 0 MRU
+Entité chargée de recevoir les réclamations: Surveillants de services /chefs d’équipes 
+ 	Service khadematy / Administrateur de garde
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHZ 2001

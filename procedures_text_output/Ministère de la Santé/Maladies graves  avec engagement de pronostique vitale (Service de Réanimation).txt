@@ -1,0 +1,13 @@
+Titre de la procédure: Maladies graves  avec engagement de pronostique vitale (Service de Réanimation)
+URL: https://procedures.gov.mr/fr/procedure/1803
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: réanimation polyvalente de CHN
+Documents requis: dossier du patient y compris les examens et l'avis du specialist (réanimateur)
+Entité chargée de la réception de la demande: les spécialistes sur place du  service par téléphone GFI
+Entités chargées du traitement de la demande: Les Anesthésiste et Les réanimateurs
+Entité chargée de fournir la prestation demandée: Les Anesthésiste et Les réanimateurs
+Délai de traitement: immédiat s'il ya des places (le service possede 6 lits )
+Frais afférents à la procédure: gratuite (pour les malades nationaux et celles qui ont les cartes de séjour ); pour les étranères 25 milles par jour
+Entité chargée de recevoir les réclamations: direction générale
+Contact: direction générale@sante.gov.mr

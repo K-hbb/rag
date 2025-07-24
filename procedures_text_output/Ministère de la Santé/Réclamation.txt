@@ -1,0 +1,14 @@
+Titre de la procédure: Réclamation
+URL: https://procedures.gov.mr/fr/procedure/1562
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: service d’accueil d’orientation et des plaintes
+Documents requis: Plainte manuscrite
+Entité chargée de la réception de la demande: service d’accueil d’orientation et des plaintes
+Entités chargées du traitement de la demande: Direction Générale
+Entité chargée de fournir la prestation demandée: Services Médicaux Techniques
+Délai de traitement: 'immédiat
+Frais afférents à la procédure: Non Concerné
+Entité chargée de recevoir les réclamations: Direction Générale
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Statut du CHCZ  décret de la création du service par la note N°094/ 2015

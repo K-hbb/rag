@@ -1,0 +1,13 @@
+Titre de la procédure: Consultation en Urgence (service de Pédiatrie)
+URL: https://procedures.gov.mr/fr/procedure/1804
+
+Usagers de la procédure: Enfants,                                                                                     Nouveaux nés
+Entité chargée de la procédure: Accueil Urgence
+Documents requis: fiche de référence en cas d'évacuation
+Entité chargée de la réception de la demande: Infirmier en consultation
+Entités chargées du traitement de la demande: Médecin en consultation
+Entité chargée de fournir la prestation demandée: Infirmier en consultation
+Délai de traitement: Immediat
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Major service pédiatrie générale
+Contact: contact@sante.gov.mr

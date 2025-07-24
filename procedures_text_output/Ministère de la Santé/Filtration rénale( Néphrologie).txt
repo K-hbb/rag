@@ -1,0 +1,14 @@
+Titre de la procédure: Filtration rénale( Néphrologie)
+URL: https://procedures.gov.mr/fr/procedure/1669
+
+Usagers de la procédure: Patient Néphrologie
+Entité chargée de la procédure: Centre d'Hemodialyse
+Documents requis: Pris en charge - Paramètre de dialyse
+Entité chargée de la réception de la demande: Sale d'hemodialyse
+Entités chargées du traitement de la demande: Major de Néphrologie
+Entité chargée de fournir la prestation demandée: Médcine
+Délai de traitement: 4 Heurs
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: Surveillant général et Major
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Protocole de l'hôpital

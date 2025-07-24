@@ -1,0 +1,13 @@
+Titre de la procédure: Prise en charge des indigents Maternité
+URL: https://procedures.gov.mr/fr/procedure/1631
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Majore du service concerne
+Documents requis: L'indigent présente sa Pièce d’identité pour avoir un billet de l'hôpital qu'il doit présenter aux affaires sociales
+Entité chargée de la réception de la demande: Affaires sociales
+Entités chargées du traitement de la demande: Affaires sociales
+Entité chargée de fournir la prestation demandée: Affaires sociales
+Délai de traitement: Immédiat ou parfois quelques jours selon les procédures
+Frais afférents à la procédure: 50%
+Entité chargée de recevoir les réclamations: Réquisition Maternité
+Contact: contact@sante.gov.mr

@@ -1,0 +1,14 @@
+Titre de la procédure: Visite Dermatologie et Maladies Sexuellement Transmissibles
+URL: https://procedures.gov.mr/fr/procedure/1722
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Dermatologie et Maladies Sexuellement Transmissibles
+Documents requis: Néant
+Entité chargée de la réception de la demande: Secrétariat Service Dermatologie
+Entités chargées du traitement de la demande: Service Dermatologie
+Entité chargée de fournir la prestation demandée: Service Dermatologie et Maladies Sexuellement Transmissibles
+Délai de traitement: Horaires ouvrables
+Frais afférents à la procédure: 5O MRU
+Entité chargée de recevoir les réclamations: Chef du service de dermatologie
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Décret portant institution de l'hôpital

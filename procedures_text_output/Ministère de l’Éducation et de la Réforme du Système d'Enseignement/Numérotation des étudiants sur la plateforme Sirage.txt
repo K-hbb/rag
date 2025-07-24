@@ -1,0 +1,13 @@
+Titre de la procédure: Numérotation des étudiants sur la plateforme Sirage
+URL: https://procedures.gov.mr/fr/procedure/1856
+
+Usagers de la procédure: Étudiants
+Entité chargée de la procédure: Direction d’Enseignement privé
+Documents requis: Demande, acte de naissance, Builtin de l'année passé, déclaration d’inscription
+Entité chargée de la réception de la demande: Direction d’Enseignement privé (secrétariat)
+Entités chargées du traitement de la demande: Direction d’Enseignement privé (chef service)
+Entité chargée de fournir la prestation demandée: Direction d’Enseignement privé (le Directeur)
+Délai de traitement: 2 SEMAINES
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: Ministère de l'éducation et de la Réforme du système d’Enseignement
+Contact: contact@education.gov.mr

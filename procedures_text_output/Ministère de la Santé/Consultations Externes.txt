@@ -1,0 +1,17 @@
+Titre de la procédure: Consultations Externes
+URL: https://procedures.gov.mr/fr/procedure/1555
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: -Unite Docto-App
+-Service de soins externes
+Documents requis: -Bulletin d'orientation
+Entité chargée de la réception de la demande: -Docto-App
+-Service consultation externe
+Entités chargées du traitement de la demande: -Service consultation externe
+-Services concernés
+Entité chargée de fournir la prestation demandée: -Services concernés
+Délai de traitement: -Sur rendez vous -Immediat/Prorata
+Entité chargée de recevoir les réclamations: -Administrateur tel:22402643
+-Khadamaty
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Deliberations Conseil d'Administration du CHZ 2001

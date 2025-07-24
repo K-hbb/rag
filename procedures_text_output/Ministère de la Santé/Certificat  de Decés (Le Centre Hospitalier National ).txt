@@ -1,0 +1,13 @@
+Titre de la procédure: Certificat  de Decés (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1390
+
+Description de la procédure ou du service: pour l'enregistrement à l'état civil
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Des Hospitalisations et Soins externes
+Documents requis: carte de décès
+Entité chargée de la réception de la demande: Service Des Hospitalisations et Soins externes
+Entités chargées du traitement de la demande: Etat Civil
+Entité chargée de fournir la prestation demandée: Service Des Hospitalisations et Soins externes
+Délai de traitement: l'immédiat
+Entité chargée de recevoir les réclamations: Service Des Hospitalisations et Soins externes
+Contact: contact@sante.gov.mr

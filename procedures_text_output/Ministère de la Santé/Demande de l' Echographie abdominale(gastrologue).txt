@@ -1,0 +1,16 @@
+Titre de la procédure: Demande de l' Echographie abdominale(gastrologue)
+URL: https://procedures.gov.mr/fr/procedure/1639
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Médecine interne
+Documents requis: Bulletin de l’examen Renseigné
+ Reçu de paiement
+Entité chargée de la réception de la demande: Service de médecine interne
+ Bureau des entrées
+Entités chargées du traitement de la demande: Service de médecine interne
+Entité chargée de fournir la prestation demandée: Service de médecines interne
+Délai de traitement: Rendez-vous
+Frais afférents à la procédure: Tarification suivant le type d'examen
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHCZ en 2001
+ Statut et règlement intérieur du CHCZ

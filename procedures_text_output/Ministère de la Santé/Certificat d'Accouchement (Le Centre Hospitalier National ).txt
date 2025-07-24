@@ -1,0 +1,13 @@
+Titre de la procédure: Certificat d'Accouchement (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1405
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de la Maternité
+Documents requis: Extrait de Naissance, les photos du Bébé et des parents
+Entité chargée de la réception de la demande: Service de Maternité
+Entités chargées du traitement de la demande: Service de Maternité
+Entité chargée de fournir la prestation demandée: Service de Maternité
+Délai de traitement: Une Semaine
+Frais afférents à la procédure: Gratuit
+Entité chargée de recevoir les réclamations: Service de Maternité
+Contact: contact@sante.gov.mr

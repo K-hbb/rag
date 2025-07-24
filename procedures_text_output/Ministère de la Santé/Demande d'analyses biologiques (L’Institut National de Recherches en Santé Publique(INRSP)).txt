@@ -1,0 +1,14 @@
+Titre de la procédure: Demande d'analyses biologiques (L’Institut National de Recherches en Santé Publique(INRSP))
+URL: https://procedures.gov.mr/fr/procedure/215
+
+Usagers de la procédure: Particuliers
+Entité chargée de la procédure: Ministère de la Santé وزارة الصحة
+Documents requis: Bulletin d'analyses établi par un médecin
+Entité chargée de la réception de la demande: Service technique compétent
+Entités chargées du traitement de la demande: Réception INRSP
+Entité chargée de fournir la prestation demandée: Laboratoire spécialisé
+Délai de traitement: variable de 24 à 72 heures
+Frais afférents à la procédure: variable en fonction des paramètres demandés.
+Entité chargée de recevoir les réclamations: Laboratoire spécialisé
+Contact: -contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Décret n°2005-018 du 27 février 2005 portant création de l'INRSP

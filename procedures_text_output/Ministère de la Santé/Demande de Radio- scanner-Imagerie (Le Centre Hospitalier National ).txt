@@ -1,0 +1,14 @@
+Titre de la procédure: Demande de Radio- scanner-Imagerie (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/194
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Laboratoire
+Service Imagerie
+Documents requis: Prise en charge -Bulletin d'examen avec un renseignement clinique signe par un médecin
+Entité chargée de la réception de la demande: Radio-scanner-Imagerie
+Entités chargées du traitement de la demande: Service urgence. Service consult externes. Services hospitaliers / Hôpital National
+Entité chargée de fournir la prestation demandée: Radio-scanner-Imagerie
+Délai de traitement: Rendez vous pour les cas non urgents, immédiat pour les hospitalisés et urgences
+Frais afférents à la procédure: Tarification suivant le type d'examen
+Contact: -contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHN en date du 2 juillet 2001

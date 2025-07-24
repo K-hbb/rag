@@ -1,0 +1,14 @@
+Titre de la procédure: Accouchement
+URL: https://procedures.gov.mr/fr/procedure/1626
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Salle d'accouchement
+Documents requis: -Kit d'accouchement
+-Kit médicament
+Entité chargée de la réception de la demande: Salle d'accouchement
+Entités chargées du traitement de la demande: Salle d'accouchement
+Entité chargée de fournir la prestation demandée: Salle d'accouchement
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: Kit médicament 600 MRU-Kit accouchement 1120 MRU
+Entité chargée de recevoir les réclamations: Service maternite
+Contact: contact@sante.gov.mr

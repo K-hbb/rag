@@ -1,0 +1,19 @@
+Titre de la procédure: Dédouanement   d’une marchandise (Cette formalité doit être légalement accomplie par un commissionnaire agrée en douane sauf  pour les opérations sans caractère commercial qui peuvent être déclarées par leur propriétaire)
+URL: https://procedures.gov.mr/fr/procedure/281
+
+Usagers de la procédure: Professionnels
+Entité chargée de la procédure: Ministère des Finances وزارة المالية
+Documents requis: Déclaration en détail accompagnée de :
+- connaissement
+- factures
+- autres doc. selon les cas
+Entité chargée de la réception de la demande: Bureaux des Douanes
+Entités chargées du traitement de la demande: Direction Générale des Douanes/Direction des Recettes et de l’Informatique (D6)/Bureaux des Douanes
+Entité chargée de fournir la prestation demandée: Bureaux des Douanes
+Délai de traitement: De 1 à 15 jours pour les délais de dépôts
+Frais afférents à la procédure: Redevance Informatique de 200 MRU par déclaration
+Entité chargée de recevoir les réclamations: Bureaux des Douanes
+- Direction Générale des Douanes (D1, D2, D4)
+Contact: contact@finances.gov.mr
+Bases juridiques et réglementaires de la procédure: Code des Douanes (66.145 du 26/07/66)
+Autres textes et conventions internationales

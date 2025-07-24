@@ -1,0 +1,17 @@
+Titre de la procédure: Accueil des patients( Chirurgie Viscérale)
+URL: https://procedures.gov.mr/fr/procedure/1670
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Chirurgie Viscérale
+Documents requis: Analyses sanguin
+Radio
+IRM
+Scanner
+Consultation  pré anesthésie
+Entité chargée de la réception de la demande: Surveillant de la chirurgie viscéral
+Entités chargées du traitement de la demande: Service de la chirurgie viscéral
+Entité chargée de fournir la prestation demandée: Service de la chirurgie viscéral
+Délai de traitement: 2 a 5 Jours
+Frais afférents à la procédure: selon le type d'opération
+Entité chargée de recevoir les réclamations: Direction de l'hospital National
+Contact: contact@sante.gov.mr

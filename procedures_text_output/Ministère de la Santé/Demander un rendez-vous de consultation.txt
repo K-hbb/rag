@@ -1,0 +1,21 @@
+Titre de la procédure: Demander un rendez-vous de consultation
+URL: https://procedures.gov.mr/fr/procedure/1542
+
+Description de la procédure ou du service: L'hôpital propose des consultations spécialisées dans la plupart des domaines médicaux. Les consultations sont divisées en deux parties :
+1- Urgences : Il fonctionne 24 heures sur 24, 24 heures sur 24, 7 jours sur 7. Il est à son tour divisé en :
+A- Urgences pour adultes : menées aux urgences
+B- Urgences  pour enfants : menées au service Pédiatrie
+C - Urgences  de gynécologie : Cela se fait au service  de gynécologie (Fatim Embarak).
+2 Consultations Externes (non urgentes) : Organisées à travers une application smartphone, DoctoApp, qui permet au patient de prendre rendez-vous depuis son domicile avec n'importe quel spécialiste de l'hôpital en appelant directement le numéro 45250200.
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Ministère de la Santé
+Documents requis: 1- Les consultations urgentes ont lieu immédiatement et ne nécessitent dans la plupart des cas aucun document hormis une référence médicale ou des documents liés aux antécédents médicaux du visiteur.
+2- Les consultations externes peuvent nécessiter une référence à un médecin spécialiste ou un rendez-vous préalable auprès du même médecin, ainsi que des documents relatifs aux antécédents médicaux, le cas échéant.
+Entité chargée de la réception de la demande: 1- Urgences pour adultes : menées aux urgences
+2- Urgences  pour enfants : menées au service Pédiatrie
+3 - Urgences  de gynécologie : menées au service  de gynécologie (Fatim Embarak).
+4- Consultations externes : au service des consultations externes.
+Entités chargées du traitement de la demande: Le service auquel la demande a été déposée
+Délai de traitement: Immédiat
+Entité chargée de recevoir les réclamations: Service Accueil, Orientation et Réclamations  (Khadamaty)
+Contact: 22402643

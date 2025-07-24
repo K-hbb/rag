@@ -1,0 +1,33 @@
+Titre de la procédure: Procédure de gestion des prestations (prise en charge des assurés) à la CNASS
+URL: https://procedures.gov.mr/fr/procedure/1294
+
+Description de la procédure ou du service: Cette procédure a pour objet de définir les modalités de gestion des prestations de soins au sein de la CNASS.
+- Les bénéficiaires de la CNASS ont droit aux prestations de soins dans toutes les formations sanitaires conventionnées ;
+- La prise en charge d’un assuré est globale, de la consultation jusqu’à la fourniture des médicaments en interne ;
+- La CNASS prend en charge uniquement les prestations de soins définies conjointement avec le Ministère de la Santé ;
+- La CNASS prend en charge ses bénéficiaires suivant un système de tiers payant ;  
+- Le bénéficiaire de soins doit respecter la pyramide sanitaire pour bénéficier de la prise en charge de la CNASS sans pénalité ;
+- Une feuille de soins doit être assigné à l’assuré pour le début de sa prise en charge. Toutes les prestations doivent obligatoirement y être consignées. Le remplissage correct de cette feuille de soins vise une meilleure traçabilité de la prise en charge de l’assuré et constitue une preuve de la realisation de la prestation de soins ;
+
+Voici les procédures pour la prise en charge d'un patient assuré dans une formation sanitaire conventionnée :
+- Accueil de l’assuré demandeur de soins et vérification l’identité et la validité de l’attestation de droits de l’assuré par le prestataire de soins ;
+- Prise en charge de l’assuré : diagnostic et traitement suivant les protocoles thérapeutiques nationaux et remplissage de la feuille de soins ;
+- Référencement de l’assuré en cas de besoins à un niveau de soins supérieur ;
+- Réception et contrôle administratif de conformité des feuilles de soins, de la facture globale et autres pièces justificatives ;
+- Contrôle de l'effectivité et de la qualité des soins prodiguées aux assurés de la CNASS conformément aux protocoles thérapeutiques ;
+- Validation et liquidation paiement des factures.
+Usagers de la procédure: Professionnel
+Entité chargée de la procédure: Département Médical ;
+Département Finance et Comptabilité.
+Documents requis: - Attestation de droits des assurés
+- Feuille de soins de la CNASS
+- Facture globale adressée à la CNASS
+- Tarification des prestations de soins à la CNASS
+Entité chargée de la réception de la demande: Antennes de la CNASS
+Entités chargées du traitement de la demande: Agences régionales de la CNASS
+Entité chargée de fournir la prestation demandée: Département Finance et Comptabilité
+Délai de traitement: 30 jours
+Entité chargée de recevoir les réclamations: Agences régionales de la CNASS
+Contact: Courriel : management@cnass.mr
+Téléphone : +22245259516
+Bases juridiques et réglementaires de la procédure: Arrêté N°857 fixant les prestations de soins couvertes par la CNASS

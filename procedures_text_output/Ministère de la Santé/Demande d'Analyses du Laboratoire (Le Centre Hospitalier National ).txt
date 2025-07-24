@@ -1,0 +1,17 @@
+Titre de la procédure: Demande d'Analyses du Laboratoire (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/197
+
+Description de la procédure ou du service: trois types d'analyse : 
+-Urgence
+-Bacteriologie
+-Routine
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Ministère de la Santé وزارة الصحة
+Documents requis: Prise en charge bon d'urgence paiement direct
+Entité chargée de la réception de la demande: Service accueil labo. Laboratoire urgence
+Entités chargées du traitement de la demande: Service urgence. Service consult externes. Services hospitaliers / Hôpital National
+Entité chargée de fournir la prestation demandée: Labo centrallabo urgence
+Délai de traitement: Urgence Immediat -Bacteriologie 12h -Routine 24h
+Frais afférents à la procédure: Tarification suivant le type d'examen
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHN en date du 2 juillet 2001

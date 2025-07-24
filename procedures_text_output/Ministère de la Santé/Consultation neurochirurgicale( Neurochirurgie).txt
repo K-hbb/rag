@@ -1,0 +1,13 @@
+Titre de la procédure: Consultation neurochirurgicale( Neurochirurgie)
+URL: https://procedures.gov.mr/fr/procedure/1673
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de neurochirurgie
+Documents requis: Scanner   - IRM
+Entité chargée de la réception de la demande: Un spécialiste  neurologue
+Entités chargées du traitement de la demande: Consultation  H 3
+Entité chargée de fournir la prestation demandée: Consultation H 3
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Major du service
+Direction centrale de l'hospital
+Contact: contact@sante.gov.mr

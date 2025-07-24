@@ -1,0 +1,13 @@
+Titre de la procédure: Consultation
+URL: https://procedures.gov.mr/fr/procedure/1603
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Ministère de la Santé
+Documents requis: Pièce d'identité et adress
+Entité chargée de la réception de la demande: Service des urgences
+Entités chargées du traitement de la demande: Service des urgences
+Entité chargée de fournir la prestation demandée: Service des urgences
+Délai de traitement: Immédiat
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Service des urgences
+Contact: contact@sante.gov.mr

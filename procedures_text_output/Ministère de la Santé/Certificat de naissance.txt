@@ -1,0 +1,16 @@
+Titre de la procédure: Certificat de naissance
+URL: https://procedures.gov.mr/fr/procedure/1628
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de la maternite
+Documents requis: Reçu de césarienne ou reçu d'accouchement
+Pièce d'identité du père
+Piece d'identite de la mère
+numero de registre
+Entité chargée de la réception de la demande: Service maternite
+Entités chargées du traitement de la demande: Bureau des entrées
+Entité chargée de fournir la prestation demandée: Service maternite
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: 0 MRU
+Entité chargée de recevoir les réclamations: Service maternite requisition
+Contact: contact@sante.gov.mr

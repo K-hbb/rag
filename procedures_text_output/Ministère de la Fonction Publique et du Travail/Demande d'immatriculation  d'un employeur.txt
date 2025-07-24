@@ -1,0 +1,14 @@
+Titre de la procédure: Demande d'immatriculation  d'un employeur
+URL: https://procedures.gov.mr/fr/procedure/1322
+
+Description de la procédure ou du service: Affiliation  d'un employeur
+Entité chargée de la procédure: Service  Etude et immatriculation/CNSSC
+Documents requis: -formulaire  rempli 
+-etat  de recensement 
+- registre  de commerce
+Entité chargée de la réception de la demande: Service Etude et  immatriculation/CNSS
+Entités chargées du traitement de la demande: Service   Etude et immatriculation, 
+GUICHET  UNIQUE ;AGENCE  RÉGIONALE ;REPRÉSENTANT CNSS A LA ZONE franche
+Entité chargée de fournir la prestation demandée: Service   Etude et immatriculation, 
+GUICHET  UNIQUE ;AGENCE  RÉGIONALE ;REPRÉSENTANT CNSS A LA ZONE franche
+Délai de traitement: 48

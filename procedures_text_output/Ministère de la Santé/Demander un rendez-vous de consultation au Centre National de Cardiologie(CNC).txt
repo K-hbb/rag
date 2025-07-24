@@ -1,0 +1,18 @@
+Titre de la procédure: Demander un rendez-vous de consultation au Centre National de Cardiologie(CNC)
+URL: https://procedures.gov.mr/fr/procedure/1318
+
+Description de la procédure ou du service: Type de consultation
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Accueil central du Centre National de Cardiologie
+Documents requis: Un document précisant le type de consultation
+Code patient au centre, si disponible
+Numéro de téléphone
+Carte d'identité
+Assurance maladie, si disponible
+Entité chargée de la réception de la demande: Accueil
+Entités chargées du traitement de la demande: Accueil
+Entité chargée de fournir la prestation demandée: Consultations externes au Centre National de Cardiologie
+Délai de traitement: immédiat
+Frais afférents à la procédure: Néant
+Entité chargée de recevoir les réclamations: Service des admissions et de la facturation du Centre national de cardiologie
+Contact: 45252550

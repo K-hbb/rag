@@ -1,0 +1,14 @@
+Titre de la procédure: Prise en Charge des Indigents (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1382
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Social
+Documents requis: NNI/billet d'hôpital/Certificat d'Indigence délivré par la mairie/Enquête du Service Sociale
+Entité chargée de la réception de la demande: Service Social
+Entités chargées du traitement de la demande: Service Social
+Entité chargée de fournir la prestation demandée: Service Social/Direction de la Protection Sociale et de la Solidarité Nationale au Ministère de l'Action Sociale
+Délai de traitement: même Jour
+Frais afférents à la procédure: Non Concerné (N/A)
+Entité chargée de recevoir les réclamations: Service Social
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Statut du CHN

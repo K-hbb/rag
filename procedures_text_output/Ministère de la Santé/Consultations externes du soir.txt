@@ -1,0 +1,19 @@
+Titre de la procédure: Consultations externes du soir
+URL: https://procedures.gov.mr/fr/procedure/1635
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Unité Docto-App
+ 	Responsable de Prorata
+Documents requis: Bulletin d’orientation
+Entité chargée de la réception de la demande: Docto-App
+ 	Administrateur responsable de Prorata
+Entités chargées du traitement de la demande: Administrateur responsable de Prorata
+ 	Service de consultations externes
+Entité chargée de fournir la prestation demandée: L‘administration
+Délai de traitement: Sur rendez vous
+Frais afférents à la procédure: 100 MRU
+Entité chargée de recevoir les réclamations: Tel 22503418 resp Prorata
+ 	TEL 22402643 Administrateur
+ 	Khadematy
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHZ 2001

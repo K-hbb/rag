@@ -1,0 +1,14 @@
+Titre de la procédure: Hospitalisation dermatologique
+URL: https://procedures.gov.mr/fr/procedure/1721
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service Dermatologie
+Documents requis: CIN - ASSURANCES SOCIAL
+Entité chargée de la réception de la demande: Surveillant - Secrétariat
+Entités chargées du traitement de la demande: Service Dermatologie
+Entité chargée de fournir la prestation demandée: Service de Dermatologie et des Maladies Sexuellement Transmissibles
+Délai de traitement: immédiat
+Frais afférents à la procédure: Selon la durée de l'hospitalisation
+Entité chargée de recevoir les réclamations: Chef Service Dermatologie
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Décret portant institution de l'hôpital

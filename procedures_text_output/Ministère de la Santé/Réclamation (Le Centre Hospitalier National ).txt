@@ -1,0 +1,15 @@
+Titre de la procédure: Réclamation (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/1393
+
+Description de la procédure ou du service: Réclamation
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Surveillance Générale
+Documents requis: Plainte manuscrite
+Entité chargée de la réception de la demande: Surveillance Générale
+Entités chargées du traitement de la demande: Direction Générale
+Entité chargée de fournir la prestation demandée: Services Médicaux Techniques
+Délai de traitement: selon la nature de la réclamation
+Frais afférents à la procédure: Non Concerné (N/A)
+Entité chargée de recevoir les réclamations: Direction Générale/surveillant générale
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Statut du CHN

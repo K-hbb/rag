@@ -1,0 +1,20 @@
+Titre de la procédure: Demande de radio -Scanner-Échographie( Hospital Cheikh Zayed)
+URL: https://procedures.gov.mr/fr/procedure/1556
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: -Imagerie médicale
+ -Gynécologie-obstétrique 
+ -Médecine interne
+ -Stomatologie
+Documents requis: -Bulletin de l’examen Renseigné
+ - Prise en charge ou paiement direct ou bon d'urgence
+Entité chargée de la réception de la demande: Service de l’imagerie médicale 
+ Bureau des entrées
+Entités chargées du traitement de la demande: Service de l’imagerie médicale
+Entité chargée de fournir la prestation demandée: Service de l’imagerie médicale
+Délai de traitement: Rendez vous pour les cas non urgents  -immédiat pour les hospitalisés et urgences
+Frais afférents à la procédure: Tarification suivant le type d'examen
+Contact: administrateur: 22402643
+contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: - Délibérations Conseil d'Administration du CHCZ en 2001
+ - Statut et règlement intérieur du CHCZ

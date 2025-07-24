@@ -1,0 +1,16 @@
+Titre de la procédure: Consultation Pédiatrique en urgence
+URL: https://procedures.gov.mr/fr/procedure/1633
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service pédiatrie
+Documents requis: Nouveau patient : Aucun
+Patient suivi : Dossier médical
+Entité chargée de la réception de la demande: Service Pédiatrie
+Entités chargées du traitement de la demande: Service Pédiatrie
+Entité chargée de fournir la prestation demandée: Service Pédiatrie
+Délai de traitement: immediat
+Frais afférents à la procédure: 50 MRU
+Entité chargée de recevoir les réclamations: Surveillante de service/chef d’équipe
+Service khadamaty/administrateur de garde
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: règlements intérieurs de l'hospital

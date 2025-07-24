@@ -1,0 +1,19 @@
+Titre de la procédure: Consultation en urgence
+URL: https://procedures.gov.mr/fr/procedure/1554
+
+Usagers de la procédure: Patient
+Documents requis: -Nouveau patient : Aucun
+-Patient Suivi : Dossier Medical
+Entité chargée de la réception de la demande: -Service des urgences
+-Service maternite(Vatma Mbareck)
+-Service pediatrie
+Entités chargées du traitement de la demande: -Service des urgences
+-Service maternite(Vatma Mbareck)
+-Service pediatrie
+Entité chargée de fournir la prestation demandée: -Service des urgences
+-Service maternite(Vatma Mbareck)
+-Service pediatrie
+Délai de traitement: Immediat
+Entité chargée de recevoir les réclamations: Service khadematy / Administrateur de garde 
+        Surveillants de services/chef d’équipe
+Contact: Appeler 22402643

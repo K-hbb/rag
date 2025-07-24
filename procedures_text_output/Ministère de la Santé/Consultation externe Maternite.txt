@@ -1,0 +1,13 @@
+Titre de la procédure: Consultation externe Maternite
+URL: https://procedures.gov.mr/fr/procedure/1623
+
+Description de la procédure ou du service: -Le patient doit être consulté par un spécialiste gynécologue pour établir le diagnostic
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Maternite Service Bloc operatoire
+Entité chargée de la réception de la demande: Maternite Service Bloc operatoire
+Entités chargées du traitement de la demande: Maternite Service Bloc operatoire
+Entité chargée de fournir la prestation demandée: Maternite Service Bloc operatoire
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: 50 MRU -Immediat
+Entité chargée de recevoir les réclamations: Réquisition maternité service bloc opératoire
+Contact: contact@sante.gov.mr

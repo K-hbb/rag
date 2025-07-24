@@ -1,0 +1,13 @@
+Titre de la procédure: Demander une visite au Centre National de Cardiologie
+URL: https://procedures.gov.mr/fr/procedure/1540
+
+Description de la procédure ou du service: Demander de visite d'un patient
+Entité chargée de la procédure: Accueil extérieur (Gardiennage)
+Documents requis: Carte d'identité
+Déterminer la chambre et le lit du patient
+Entité chargée de la réception de la demande: Accueil extérieur (Gardiennage)
+Entités chargées du traitement de la demande: Accueil extérieur (Gardiennage)
+Entité chargée de fournir la prestation demandée: Accueil extérieur (Gardiennage)
+Délai de traitement: Immédiat
+Entité chargée de recevoir les réclamations: Service d'admission et de facturation
+Contact: Centre d'information : 45252550

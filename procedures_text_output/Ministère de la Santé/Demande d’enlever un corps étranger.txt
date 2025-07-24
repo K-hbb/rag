@@ -1,0 +1,18 @@
+Titre de la procédure: Demande d’enlever un corps étranger
+URL: https://procedures.gov.mr/fr/procedure/1640
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Médecine interne
+Documents requis: Bulletin de l’examen Renseigné
+  Reçu de paiement
+Entité chargée de la réception de la demande: Service de médecine interne 
+ Bureau des entrées
+Entités chargées du traitement de la demande: Service de medecine interne
+Entité chargée de fournir la prestation demandée: Service de medecine interne
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: Frais : 3000mru       Cnam : 200 mru
+Entité chargée de recevoir les réclamations: Service Khadamaty
+Surveillante de médecine interne
+Contact: contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHCZ en 2001
+Statut et règlement intérieur du CHCZ

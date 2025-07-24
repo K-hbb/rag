@@ -1,0 +1,15 @@
+Titre de la procédure: Hospitalisation
+URL: https://procedures.gov.mr/fr/procedure/1606
+
+Description de la procédure ou du service: Urgence médical
+urgence chirurgical
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Services des Urgences
+Documents requis: non preciser
+Entité chargée de la réception de la demande: Services des Urgences
+Entités chargées du traitement de la demande: Services des Urgences
+Entité chargée de fournir la prestation demandée: Services des Urgences
+Délai de traitement: Immédiat
+Frais afférents à la procédure: gratuit
+Entité chargée de recevoir les réclamations: Services des Urgences
+Contact: contact@sante.gov.mr

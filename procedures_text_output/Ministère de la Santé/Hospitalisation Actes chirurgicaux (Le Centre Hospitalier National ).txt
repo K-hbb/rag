@@ -1,0 +1,13 @@
+Titre de la procédure: Hospitalisation Actes chirurgicaux (Le Centre Hospitalier National )
+URL: https://procedures.gov.mr/fr/procedure/191
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service des urgences
+Documents requis: Billet d'hôpital. Bon d'urgence. Prise en charge. Paiement direct
+Entité chargée de la réception de la demande: Service hospitalisation E27F27
+Entités chargées du traitement de la demande: Service urgences. Service consultation externe / Hôpital National
+Entité chargée de fournir la prestation demandée: Services hospitaliers
+Délai de traitement: Immédiat
+Frais afférents à la procédure: Tarification suivant/acte pathologie /durée de séjour/catégorie
+Contact: BP 612 TEL: 45252135 Gestionnaire contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Délibérations Conseil d'Administration du CHN en date du 2 juillet 2001

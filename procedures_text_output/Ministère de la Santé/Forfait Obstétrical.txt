@@ -1,0 +1,18 @@
+Titre de la procédure: Forfait Obstétrical
+URL: https://procedures.gov.mr/fr/procedure/1559
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de la Maternité
+Documents requis: Carte d'identité Nationale
+ Carnet de Forfait
+ Fiche de Référence / extrême urgence
+Entité chargée de la réception de la demande: Service de Maternité
+Entités chargées du traitement de la demande: Bureau des entrées et des soins externes
+Entité chargée de fournir la prestation demandée: Service de la Maternité
+Délai de traitement: l'immédiat
+Frais afférents à la procédure: Propep
+Entité chargée de recevoir les réclamations: Service Khadamaty
+Contact: Unité Fatma Mint Mbarek
+ 	Administrateur: 22402643; surveillante 22003793. 
+ 	contact@sante.gov.mr
+Bases juridiques et réglementaires de la procédure: Statut et règlement intérieur de l'hôpital

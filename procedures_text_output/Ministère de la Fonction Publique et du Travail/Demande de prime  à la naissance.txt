@@ -1,0 +1,9 @@
+Titre de la procédure: Demande de prime  à la naissance
+URL: https://procedures.gov.mr/fr/procedure/1356
+
+Description de la procédure ou du service: Paiement  d'une prime  pour un nouveau né
+Entité chargée de la procédure: Service prestations familiales/CNSS
+Documents requis: - acte de naissance  de l'enfant
+Entité chargée de la réception de la demande: Guichet métier ;Guichet khadematy/CNSS
+Entités chargées du traitement de la demande: Service prestations familiales/CNSS
+Entité chargée de fournir la prestation demandée: Caisse

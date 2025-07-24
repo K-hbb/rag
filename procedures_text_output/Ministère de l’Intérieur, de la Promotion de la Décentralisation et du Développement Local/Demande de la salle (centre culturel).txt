@@ -1,0 +1,12 @@
+Titre de la procédure: Demande de la salle (centre culturel)
+URL: https://procedures.gov.mr/fr/procedure/1995
+
+Usagers de la procédure: Citoyens
+Entité chargée de la procédure: Centre culturel
+Documents requis: Demande contenant la raison pour laquelle la salle est demandé
+Entité chargée de la réception de la demande: Secrétariat central
+Entités chargées du traitement de la demande: Secrétariat central
+Entité chargée de fournir la prestation demandée: Secrétariat central
+Délai de traitement: Non précis
+Frais afférents à la procédure: Aucune
+Contact: contact@cm.mr

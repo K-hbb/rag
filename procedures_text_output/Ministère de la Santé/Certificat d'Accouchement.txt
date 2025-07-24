@@ -1,0 +1,16 @@
+Titre de la procédure: Certificat d'Accouchement
+URL: https://procedures.gov.mr/fr/procedure/1558
+
+Usagers de la procédure: Patient
+Entité chargée de la procédure: Service de la Maternité
+Documents requis: copies cartes d’identités (père/mère)
+ 	photos du nouveau né, du (père/mère).
+ 	Reçus de paiement
+Entité chargée de la réception de la demande: Service de Maternité
+Entités chargées du traitement de la demande: Service de Maternité
+ 	Bureau des entrées
+Entité chargée de fournir la prestation demandée: Bureau des entrées
+Délai de traitement: Une Semaine
+Frais afférents à la procédure: gratuite
+Entité chargée de recevoir les réclamations: Maternité
+Contact: contact@sante.gov.mr
